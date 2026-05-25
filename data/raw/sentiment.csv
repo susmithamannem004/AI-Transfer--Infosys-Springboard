@@ -1,0 +1,721 @@
+player_id,period,mention_count,positive_examples,negative_examples,source_sentiment
+1,2021Q1,1158,Milan Martin looks brilliant after 1158 fan mentions | Milan Martin looks clinical after 1158 fan mentions,Milan Martin feels inconsistent to some supporters,0.2683
+1,2021Q2,1396,Milan Martin looks brilliant after 1396 fan mentions | Milan Martin looks clinical after 1396 fan mentions,Milan Martin feels inconsistent to some supporters,0.4742
+1,2021Q3,1289,Milan Martin looks brilliant after 1289 fan mentions | Milan Martin looks clinical after 1289 fan mentions,Milan Martin feels inconsistent to some supporters,0.8846
+1,2021Q4,1112,Milan Martin looks brilliant after 1112 fan mentions | Milan Martin looks clinical after 1112 fan mentions,Milan Martin feels inconsistent to some supporters,0.6167
+1,2022Q1,1219,Milan Martin looks brilliant after 1219 fan mentions | Milan Martin looks clinical after 1219 fan mentions,Milan Martin feels inconsistent to some supporters,0.8001
+1,2022Q2,1176,Milan Martin looks brilliant after 1176 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.2989
+1,2022Q3,1246,Milan Martin looks brilliant after 1246 fan mentions | Milan Martin looks clinical after 1246 fan mentions,Milan Martin feels inconsistent to some supporters,0.4062
+1,2022Q4,1117,Milan Martin looks brilliant after 1117 fan mentions | Milan Martin looks clinical after 1117 fan mentions,Milan Martin feels inconsistent to some supporters,0.0262
+1,2023Q1,1029,Milan Martin looks brilliant after 1029 fan mentions | Milan Martin looks clinical after 1029 fan mentions,Milan Martin feels inconsistent to some supporters,0.0376
+1,2023Q2,1439,Milan Martin looks brilliant after 1439 fan mentions | Milan Martin looks clinical after 1439 fan mentions,Milan Martin feels inconsistent to some supporters,0.3973
+1,2023Q3,974,Milan Martin looks brilliant after 974 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.1908
+1,2023Q4,1143,Milan Martin looks brilliant after 1143 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.3578
+1,2024Q1,1162,Milan Martin looks brilliant after 1162 fan mentions | Milan Martin looks clinical after 1162 fan mentions,Milan Martin feels inconsistent to some supporters,0.2778
+1,2024Q2,833,Milan Martin looks brilliant after 833 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.0495
+1,2024Q3,1014,Milan Martin looks brilliant after 1014 fan mentions | Milan Martin looks clinical after 1014 fan mentions,Milan Martin feels inconsistent to some supporters,0.2256
+1,2024Q4,1292,Milan Martin looks brilliant after 1292 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.1115
+1,2025Q1,1310,Milan Martin looks brilliant after 1310 fan mentions,Milan Martin feels inconsistent to some supporters | Milan Martin feels overpriced to some supporters,-0.0228
+1,2025Q2,1276,Milan Martin looks brilliant after 1276 fan mentions | Milan Martin looks clinical after 1276 fan mentions,Milan Martin feels inconsistent to some supporters,0.4082
+1,2025Q3,1098,Milan Martin looks brilliant after 1098 fan mentions | Milan Martin looks clinical after 1098 fan mentions,Milan Martin feels inconsistent to some supporters,0.1971
+1,2025Q4,1092,Milan Martin looks brilliant after 1092 fan mentions | Milan Martin looks clinical after 1092 fan mentions,Milan Martin feels inconsistent to some supporters,0.4601
+2,2021Q1,807,Milan Kane looks brilliant after 807 fan mentions | Milan Kane looks clinical after 807 fan mentions,Milan Kane feels inconsistent to some supporters,0.2737
+2,2021Q2,1030,Milan Kane looks brilliant after 1030 fan mentions | Milan Kane looks clinical after 1030 fan mentions,Milan Kane feels inconsistent to some supporters,0.2567
+2,2021Q3,1000,Milan Kane looks brilliant after 1000 fan mentions | Milan Kane looks clinical after 1000 fan mentions,Milan Kane feels inconsistent to some supporters,1.0
+2,2021Q4,1120,Milan Kane looks brilliant after 1120 fan mentions | Milan Kane looks clinical after 1120 fan mentions,Milan Kane feels inconsistent to some supporters,0.5816
+2,2022Q1,862,Milan Kane looks brilliant after 862 fan mentions | Milan Kane looks clinical after 862 fan mentions,Milan Kane feels inconsistent to some supporters,0.7368
+2,2022Q2,654,Milan Kane looks brilliant after 654 fan mentions | Milan Kane looks clinical after 654 fan mentions,Milan Kane feels inconsistent to some supporters,0.0394
+2,2022Q3,981,Milan Kane looks brilliant after 981 fan mentions | Milan Kane looks clinical after 981 fan mentions,Milan Kane feels inconsistent to some supporters,0.3302
+2,2022Q4,880,Milan Kane looks brilliant after 880 fan mentions | Milan Kane looks clinical after 880 fan mentions,Milan Kane feels inconsistent to some supporters,0.2898
+2,2023Q1,908,Milan Kane looks brilliant after 908 fan mentions | Milan Kane looks clinical after 908 fan mentions,Milan Kane feels inconsistent to some supporters,0.1684
+2,2023Q2,769,Milan Kane looks brilliant after 769 fan mentions | Milan Kane looks clinical after 769 fan mentions,Milan Kane feels inconsistent to some supporters,0.1161
+2,2023Q3,659,Milan Kane looks brilliant after 659 fan mentions | Milan Kane looks clinical after 659 fan mentions,Milan Kane feels inconsistent to some supporters,0.7361
+2,2023Q4,791,Milan Kane looks brilliant after 791 fan mentions | Milan Kane looks clinical after 791 fan mentions,Milan Kane feels inconsistent to some supporters,0.0883
+2,2024Q1,769,Milan Kane looks brilliant after 769 fan mentions | Milan Kane looks clinical after 769 fan mentions,Milan Kane feels inconsistent to some supporters,0.4277
+2,2024Q2,935,Milan Kane looks brilliant after 935 fan mentions | Milan Kane looks clinical after 935 fan mentions,Milan Kane feels inconsistent to some supporters,0.1593
+2,2024Q3,884,Milan Kane looks brilliant after 884 fan mentions | Milan Kane looks clinical after 884 fan mentions,Milan Kane feels inconsistent to some supporters,0.2668
+2,2024Q4,649,Milan Kane looks brilliant after 649 fan mentions | Milan Kane looks clinical after 649 fan mentions,Milan Kane feels inconsistent to some supporters,0.5138
+2,2025Q1,1066,Milan Kane looks brilliant after 1066 fan mentions | Milan Kane looks clinical after 1066 fan mentions,Milan Kane feels inconsistent to some supporters,0.3677
+2,2025Q2,575,Milan Kane looks brilliant after 575 fan mentions | Milan Kane looks clinical after 575 fan mentions,Milan Kane feels inconsistent to some supporters,0.1358
+2,2025Q3,852,Milan Kane looks brilliant after 852 fan mentions | Milan Kane looks clinical after 852 fan mentions,Milan Kane feels inconsistent to some supporters,0.3512
+2,2025Q4,985,Milan Kane looks brilliant after 985 fan mentions | Milan Kane looks clinical after 985 fan mentions,Milan Kane feels inconsistent to some supporters,0.0903
+3,2021Q1,1218,Alex Costa looks brilliant after 1218 fan mentions | Alex Costa looks clinical after 1218 fan mentions,Alex Costa feels inconsistent to some supporters,0.7205
+3,2021Q2,1080,Alex Costa looks brilliant after 1080 fan mentions | Alex Costa looks clinical after 1080 fan mentions,Alex Costa feels inconsistent to some supporters,0.6136
+3,2021Q3,918,Alex Costa looks brilliant after 918 fan mentions | Alex Costa looks clinical after 918 fan mentions,Alex Costa feels inconsistent to some supporters,0.7217
+3,2021Q4,1286,Alex Costa looks brilliant after 1286 fan mentions | Alex Costa looks clinical after 1286 fan mentions,Alex Costa feels inconsistent to some supporters,0.3941
+3,2022Q1,1082,Alex Costa looks brilliant after 1082 fan mentions | Alex Costa looks clinical after 1082 fan mentions,Alex Costa feels inconsistent to some supporters,0.6723
+3,2022Q2,1083,Alex Costa looks brilliant after 1083 fan mentions | Alex Costa looks clinical after 1083 fan mentions,Alex Costa feels inconsistent to some supporters,0.2173
+3,2022Q3,1297,Alex Costa looks brilliant after 1297 fan mentions | Alex Costa looks clinical after 1297 fan mentions,Alex Costa feels inconsistent to some supporters,0.4785
+3,2022Q4,1391,Alex Costa looks brilliant after 1391 fan mentions | Alex Costa looks clinical after 1391 fan mentions,Alex Costa feels inconsistent to some supporters,0.7417
+3,2023Q1,1204,Alex Costa looks brilliant after 1204 fan mentions | Alex Costa looks clinical after 1204 fan mentions,Alex Costa feels inconsistent to some supporters,0.2491
+3,2023Q2,1266,Alex Costa looks brilliant after 1266 fan mentions | Alex Costa looks clinical after 1266 fan mentions,Alex Costa feels inconsistent to some supporters,0.4305
+3,2023Q3,1264,Alex Costa looks brilliant after 1264 fan mentions | Alex Costa looks clinical after 1264 fan mentions,Alex Costa feels inconsistent to some supporters,0.4199
+3,2023Q4,1325,Alex Costa looks brilliant after 1325 fan mentions | Alex Costa looks clinical after 1325 fan mentions,Alex Costa feels inconsistent to some supporters,0.187
+3,2024Q1,1219,Alex Costa looks brilliant after 1219 fan mentions | Alex Costa looks clinical after 1219 fan mentions,Alex Costa feels inconsistent to some supporters,0.4042
+3,2024Q2,1524,Alex Costa looks brilliant after 1524 fan mentions | Alex Costa looks clinical after 1524 fan mentions,Alex Costa feels inconsistent to some supporters,0.8145
+3,2024Q3,1168,Alex Costa looks brilliant after 1168 fan mentions | Alex Costa looks clinical after 1168 fan mentions,Alex Costa feels inconsistent to some supporters,0.6859
+3,2024Q4,1087,Alex Costa looks brilliant after 1087 fan mentions | Alex Costa looks clinical after 1087 fan mentions,Alex Costa feels inconsistent to some supporters,0.582
+3,2025Q1,1119,Alex Costa looks brilliant after 1119 fan mentions | Alex Costa looks clinical after 1119 fan mentions,Alex Costa feels inconsistent to some supporters,0.4401
+3,2025Q2,1338,Alex Costa looks brilliant after 1338 fan mentions | Alex Costa looks clinical after 1338 fan mentions,Alex Costa feels inconsistent to some supporters,0.3856
+3,2025Q3,1142,Alex Costa looks brilliant after 1142 fan mentions | Alex Costa looks clinical after 1142 fan mentions,Alex Costa feels inconsistent to some supporters,0.0533
+3,2025Q4,1265,Alex Costa looks brilliant after 1265 fan mentions,Alex Costa feels inconsistent to some supporters | Alex Costa feels overpriced to some supporters,-0.1669
+4,2021Q1,1144,Lucas Diallo looks brilliant after 1144 fan mentions | Lucas Diallo looks clinical after 1144 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.1814
+4,2021Q2,1108,Lucas Diallo looks brilliant after 1108 fan mentions | Lucas Diallo looks clinical after 1108 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.1429
+4,2021Q3,1244,Lucas Diallo looks brilliant after 1244 fan mentions | Lucas Diallo looks clinical after 1244 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.487
+4,2021Q4,1157,Lucas Diallo looks brilliant after 1157 fan mentions | Lucas Diallo looks clinical after 1157 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.5733
+4,2022Q1,1152,Lucas Diallo looks brilliant after 1152 fan mentions,Lucas Diallo feels inconsistent to some supporters | Lucas Diallo feels overpriced to some supporters,-0.1969
+4,2022Q2,1146,Lucas Diallo looks brilliant after 1146 fan mentions | Lucas Diallo looks clinical after 1146 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.2522
+4,2022Q3,996,Lucas Diallo looks brilliant after 996 fan mentions | Lucas Diallo looks clinical after 996 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.1628
+4,2022Q4,957,Lucas Diallo looks brilliant after 957 fan mentions,Lucas Diallo feels inconsistent to some supporters | Lucas Diallo feels overpriced to some supporters,-0.0448
+4,2023Q1,1188,Lucas Diallo looks brilliant after 1188 fan mentions | Lucas Diallo looks clinical after 1188 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.319
+4,2023Q2,1326,Lucas Diallo looks brilliant after 1326 fan mentions | Lucas Diallo looks clinical after 1326 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.7026
+4,2023Q3,1039,Lucas Diallo looks brilliant after 1039 fan mentions | Lucas Diallo looks clinical after 1039 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.1237
+4,2023Q4,1028,Lucas Diallo looks brilliant after 1028 fan mentions | Lucas Diallo looks clinical after 1028 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.7675
+4,2024Q1,1146,Lucas Diallo looks brilliant after 1146 fan mentions | Lucas Diallo looks clinical after 1146 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.4752
+4,2024Q2,1191,Lucas Diallo looks brilliant after 1191 fan mentions | Lucas Diallo looks clinical after 1191 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.2515
+4,2024Q3,1106,Lucas Diallo looks brilliant after 1106 fan mentions | Lucas Diallo looks clinical after 1106 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.5727
+4,2024Q4,1182,Lucas Diallo looks brilliant after 1182 fan mentions | Lucas Diallo looks clinical after 1182 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.7589
+4,2025Q1,953,Lucas Diallo looks brilliant after 953 fan mentions | Lucas Diallo looks clinical after 953 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.291
+4,2025Q2,1122,Lucas Diallo looks brilliant after 1122 fan mentions | Lucas Diallo looks clinical after 1122 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.0145
+4,2025Q3,1101,Lucas Diallo looks brilliant after 1101 fan mentions | Lucas Diallo looks clinical after 1101 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.3638
+4,2025Q4,1094,Lucas Diallo looks brilliant after 1094 fan mentions | Lucas Diallo looks clinical after 1094 fan mentions,Lucas Diallo feels inconsistent to some supporters,0.0654
+5,2021Q1,1752,Leo Moreau looks brilliant after 1752 fan mentions | Leo Moreau looks clinical after 1752 fan mentions,Leo Moreau feels inconsistent to some supporters,0.6657
+5,2021Q2,1653,Leo Moreau looks brilliant after 1653 fan mentions | Leo Moreau looks clinical after 1653 fan mentions,Leo Moreau feels inconsistent to some supporters,0.4065
+5,2021Q3,1580,Leo Moreau looks brilliant after 1580 fan mentions | Leo Moreau looks clinical after 1580 fan mentions,Leo Moreau feels inconsistent to some supporters,0.3739
+5,2021Q4,1583,Leo Moreau looks brilliant after 1583 fan mentions | Leo Moreau looks clinical after 1583 fan mentions,Leo Moreau feels inconsistent to some supporters,0.7872
+5,2022Q1,1606,Leo Moreau looks brilliant after 1606 fan mentions | Leo Moreau looks clinical after 1606 fan mentions,Leo Moreau feels inconsistent to some supporters,0.2128
+5,2022Q2,1531,Leo Moreau looks brilliant after 1531 fan mentions | Leo Moreau looks clinical after 1531 fan mentions,Leo Moreau feels inconsistent to some supporters,0.4184
+5,2022Q3,1571,Leo Moreau looks brilliant after 1571 fan mentions | Leo Moreau looks clinical after 1571 fan mentions,Leo Moreau feels inconsistent to some supporters,0.2359
+5,2022Q4,1589,Leo Moreau looks brilliant after 1589 fan mentions,Leo Moreau feels inconsistent to some supporters | Leo Moreau feels overpriced to some supporters,-0.1817
+5,2023Q1,1500,Leo Moreau looks brilliant after 1500 fan mentions | Leo Moreau looks clinical after 1500 fan mentions,Leo Moreau feels inconsistent to some supporters,0.6226
+5,2023Q2,1702,Leo Moreau looks brilliant after 1702 fan mentions | Leo Moreau looks clinical after 1702 fan mentions,Leo Moreau feels inconsistent to some supporters,0.3504
+5,2023Q3,1520,Leo Moreau looks brilliant after 1520 fan mentions | Leo Moreau looks clinical after 1520 fan mentions,Leo Moreau feels inconsistent to some supporters,0.4312
+5,2023Q4,1260,Leo Moreau looks brilliant after 1260 fan mentions | Leo Moreau looks clinical after 1260 fan mentions,Leo Moreau feels inconsistent to some supporters,0.2872
+5,2024Q1,1487,Leo Moreau looks brilliant after 1487 fan mentions | Leo Moreau looks clinical after 1487 fan mentions,Leo Moreau feels inconsistent to some supporters,0.716
+5,2024Q2,1643,Leo Moreau looks brilliant after 1643 fan mentions | Leo Moreau looks clinical after 1643 fan mentions,Leo Moreau feels inconsistent to some supporters,0.2653
+5,2024Q3,1369,Leo Moreau looks brilliant after 1369 fan mentions | Leo Moreau looks clinical after 1369 fan mentions,Leo Moreau feels inconsistent to some supporters,0.345
+5,2024Q4,1599,Leo Moreau looks brilliant after 1599 fan mentions | Leo Moreau looks clinical after 1599 fan mentions,Leo Moreau feels inconsistent to some supporters,0.6397
+5,2025Q1,1690,Leo Moreau looks brilliant after 1690 fan mentions | Leo Moreau looks clinical after 1690 fan mentions,Leo Moreau feels inconsistent to some supporters,0.1498
+5,2025Q2,1526,Leo Moreau looks brilliant after 1526 fan mentions | Leo Moreau looks clinical after 1526 fan mentions,Leo Moreau feels inconsistent to some supporters,0.3595
+5,2025Q3,1637,Leo Moreau looks brilliant after 1637 fan mentions | Leo Moreau looks clinical after 1637 fan mentions,Leo Moreau feels inconsistent to some supporters,0.3547
+5,2025Q4,1638,Leo Moreau looks brilliant after 1638 fan mentions,Leo Moreau feels inconsistent to some supporters | Leo Moreau feels overpriced to some supporters,-0.2543
+6,2021Q1,1108,Bruno Martin looks brilliant after 1108 fan mentions | Bruno Martin looks clinical after 1108 fan mentions,Bruno Martin feels inconsistent to some supporters,0.3676
+6,2021Q2,1634,Bruno Martin looks brilliant after 1634 fan mentions | Bruno Martin looks clinical after 1634 fan mentions,Bruno Martin feels inconsistent to some supporters,0.5652
+6,2021Q3,1521,Bruno Martin looks brilliant after 1521 fan mentions | Bruno Martin looks clinical after 1521 fan mentions,Bruno Martin feels inconsistent to some supporters,0.4319
+6,2021Q4,1430,Bruno Martin looks brilliant after 1430 fan mentions | Bruno Martin looks clinical after 1430 fan mentions,Bruno Martin feels inconsistent to some supporters,0.5758
+6,2022Q1,1452,Bruno Martin looks brilliant after 1452 fan mentions | Bruno Martin looks clinical after 1452 fan mentions,Bruno Martin feels inconsistent to some supporters,0.4234
+6,2022Q2,1362,Bruno Martin looks brilliant after 1362 fan mentions | Bruno Martin looks clinical after 1362 fan mentions,Bruno Martin feels inconsistent to some supporters,0.2636
+6,2022Q3,1342,Bruno Martin looks brilliant after 1342 fan mentions | Bruno Martin looks clinical after 1342 fan mentions,Bruno Martin feels inconsistent to some supporters,0.1622
+6,2022Q4,1568,Bruno Martin looks brilliant after 1568 fan mentions | Bruno Martin looks clinical after 1568 fan mentions,Bruno Martin feels inconsistent to some supporters,0.0159
+6,2023Q1,1587,Bruno Martin looks brilliant after 1587 fan mentions | Bruno Martin looks clinical after 1587 fan mentions,Bruno Martin feels inconsistent to some supporters,0.4506
+6,2023Q2,1276,Bruno Martin looks brilliant after 1276 fan mentions | Bruno Martin looks clinical after 1276 fan mentions,Bruno Martin feels inconsistent to some supporters,0.5022
+6,2023Q3,1212,Bruno Martin looks brilliant after 1212 fan mentions | Bruno Martin looks clinical after 1212 fan mentions,Bruno Martin feels inconsistent to some supporters,0.5998
+6,2023Q4,1462,Bruno Martin looks brilliant after 1462 fan mentions | Bruno Martin looks clinical after 1462 fan mentions,Bruno Martin feels inconsistent to some supporters,0.451
+6,2024Q1,1438,Bruno Martin looks brilliant after 1438 fan mentions | Bruno Martin looks clinical after 1438 fan mentions,Bruno Martin feels inconsistent to some supporters,0.388
+6,2024Q2,1282,Bruno Martin looks brilliant after 1282 fan mentions | Bruno Martin looks clinical after 1282 fan mentions,Bruno Martin feels inconsistent to some supporters,0.1659
+6,2024Q3,1215,Bruno Martin looks brilliant after 1215 fan mentions | Bruno Martin looks clinical after 1215 fan mentions,Bruno Martin feels inconsistent to some supporters,0.4914
+6,2024Q4,1344,Bruno Martin looks brilliant after 1344 fan mentions | Bruno Martin looks clinical after 1344 fan mentions,Bruno Martin feels inconsistent to some supporters,0.3214
+6,2025Q1,1284,Bruno Martin looks brilliant after 1284 fan mentions | Bruno Martin looks clinical after 1284 fan mentions,Bruno Martin feels inconsistent to some supporters,0.1141
+6,2025Q2,1542,Bruno Martin looks brilliant after 1542 fan mentions | Bruno Martin looks clinical after 1542 fan mentions,Bruno Martin feels inconsistent to some supporters,0.3278
+6,2025Q3,1617,Bruno Martin looks brilliant after 1617 fan mentions | Bruno Martin looks clinical after 1617 fan mentions,Bruno Martin feels inconsistent to some supporters,0.1868
+6,2025Q4,1438,Bruno Martin looks brilliant after 1438 fan mentions,Bruno Martin feels inconsistent to some supporters | Bruno Martin feels overpriced to some supporters,-0.0702
+7,2021Q1,1227,Mateo Moreau looks brilliant after 1227 fan mentions | Mateo Moreau looks clinical after 1227 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.0408
+7,2021Q2,1395,Mateo Moreau looks brilliant after 1395 fan mentions | Mateo Moreau looks clinical after 1395 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3129
+7,2021Q3,1042,Mateo Moreau looks brilliant after 1042 fan mentions | Mateo Moreau looks clinical after 1042 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3451
+7,2021Q4,1080,Mateo Moreau looks brilliant after 1080 fan mentions | Mateo Moreau looks clinical after 1080 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.2031
+7,2022Q1,1262,Mateo Moreau looks brilliant after 1262 fan mentions | Mateo Moreau looks clinical after 1262 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3281
+7,2022Q2,1101,Mateo Moreau looks brilliant after 1101 fan mentions | Mateo Moreau looks clinical after 1101 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.6711
+7,2022Q3,1206,Mateo Moreau looks brilliant after 1206 fan mentions | Mateo Moreau looks clinical after 1206 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.0448
+7,2022Q4,1235,Mateo Moreau looks brilliant after 1235 fan mentions | Mateo Moreau looks clinical after 1235 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.1015
+7,2023Q1,1265,Mateo Moreau looks brilliant after 1265 fan mentions | Mateo Moreau looks clinical after 1265 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3904
+7,2023Q2,1215,Mateo Moreau looks brilliant after 1215 fan mentions,Mateo Moreau feels inconsistent to some supporters | Mateo Moreau feels overpriced to some supporters,-0.2413
+7,2023Q3,990,Mateo Moreau looks brilliant after 990 fan mentions | Mateo Moreau looks clinical after 990 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.2705
+7,2023Q4,1282,Mateo Moreau looks brilliant after 1282 fan mentions | Mateo Moreau looks clinical after 1282 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3833
+7,2024Q1,1102,Mateo Moreau looks brilliant after 1102 fan mentions | Mateo Moreau looks clinical after 1102 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.4609
+7,2024Q2,1269,Mateo Moreau looks brilliant after 1269 fan mentions | Mateo Moreau looks clinical after 1269 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.3602
+7,2024Q3,1154,Mateo Moreau looks brilliant after 1154 fan mentions | Mateo Moreau looks clinical after 1154 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.0751
+7,2024Q4,944,Mateo Moreau looks brilliant after 944 fan mentions | Mateo Moreau looks clinical after 944 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.2144
+7,2025Q1,1112,Mateo Moreau looks brilliant after 1112 fan mentions | Mateo Moreau looks clinical after 1112 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.5748
+7,2025Q2,1185,Mateo Moreau looks brilliant after 1185 fan mentions,Mateo Moreau feels inconsistent to some supporters | Mateo Moreau feels overpriced to some supporters,-0.1976
+7,2025Q3,1290,Mateo Moreau looks brilliant after 1290 fan mentions | Mateo Moreau looks clinical after 1290 fan mentions,Mateo Moreau feels inconsistent to some supporters,0.7581
+7,2025Q4,1152,Mateo Moreau looks brilliant after 1152 fan mentions,Mateo Moreau feels inconsistent to some supporters | Mateo Moreau feels overpriced to some supporters,-0.1633
+8,2021Q1,1057,Rafael Kane looks brilliant after 1057 fan mentions | Rafael Kane looks clinical after 1057 fan mentions,Rafael Kane feels inconsistent to some supporters,0.0467
+8,2021Q2,948,Rafael Kane looks brilliant after 948 fan mentions,Rafael Kane feels inconsistent to some supporters | Rafael Kane feels overpriced to some supporters,-0.146
+8,2021Q3,981,Rafael Kane looks brilliant after 981 fan mentions | Rafael Kane looks clinical after 981 fan mentions,Rafael Kane feels inconsistent to some supporters,0.3179
+8,2021Q4,1261,Rafael Kane looks brilliant after 1261 fan mentions | Rafael Kane looks clinical after 1261 fan mentions,Rafael Kane feels inconsistent to some supporters,0.3146
+8,2022Q1,1051,Rafael Kane looks brilliant after 1051 fan mentions | Rafael Kane looks clinical after 1051 fan mentions,Rafael Kane feels inconsistent to some supporters,0.2772
+8,2022Q2,1140,Rafael Kane looks brilliant after 1140 fan mentions | Rafael Kane looks clinical after 1140 fan mentions,Rafael Kane feels inconsistent to some supporters,0.5763
+8,2022Q3,1246,Rafael Kane looks brilliant after 1246 fan mentions | Rafael Kane looks clinical after 1246 fan mentions,Rafael Kane feels inconsistent to some supporters,0.1493
+8,2022Q4,1027,Rafael Kane looks brilliant after 1027 fan mentions | Rafael Kane looks clinical after 1027 fan mentions,Rafael Kane feels inconsistent to some supporters,0.5214
+8,2023Q1,1209,Rafael Kane looks brilliant after 1209 fan mentions | Rafael Kane looks clinical after 1209 fan mentions,Rafael Kane feels inconsistent to some supporters,0.6772
+8,2023Q2,1272,Rafael Kane looks brilliant after 1272 fan mentions | Rafael Kane looks clinical after 1272 fan mentions,Rafael Kane feels inconsistent to some supporters,0.0525
+8,2023Q3,952,Rafael Kane looks brilliant after 952 fan mentions | Rafael Kane looks clinical after 952 fan mentions,Rafael Kane feels inconsistent to some supporters,0.482
+8,2023Q4,955,Rafael Kane looks brilliant after 955 fan mentions | Rafael Kane looks clinical after 955 fan mentions,Rafael Kane feels inconsistent to some supporters,0.6957
+8,2024Q1,1054,Rafael Kane looks brilliant after 1054 fan mentions | Rafael Kane looks clinical after 1054 fan mentions,Rafael Kane feels inconsistent to some supporters,0.3137
+8,2024Q2,1133,Rafael Kane looks brilliant after 1133 fan mentions | Rafael Kane looks clinical after 1133 fan mentions,Rafael Kane feels inconsistent to some supporters,0.3164
+8,2024Q3,1214,Rafael Kane looks brilliant after 1214 fan mentions | Rafael Kane looks clinical after 1214 fan mentions,Rafael Kane feels inconsistent to some supporters,0.1491
+8,2024Q4,1215,Rafael Kane looks brilliant after 1215 fan mentions | Rafael Kane looks clinical after 1215 fan mentions,Rafael Kane feels inconsistent to some supporters,0.0042
+8,2025Q1,1139,Rafael Kane looks brilliant after 1139 fan mentions | Rafael Kane looks clinical after 1139 fan mentions,Rafael Kane feels inconsistent to some supporters,0.4014
+8,2025Q2,933,Rafael Kane looks brilliant after 933 fan mentions | Rafael Kane looks clinical after 933 fan mentions,Rafael Kane feels inconsistent to some supporters,0.4939
+8,2025Q3,1157,Rafael Kane looks brilliant after 1157 fan mentions | Rafael Kane looks clinical after 1157 fan mentions,Rafael Kane feels inconsistent to some supporters,0.0941
+8,2025Q4,986,Rafael Kane looks brilliant after 986 fan mentions | Rafael Kane looks clinical after 986 fan mentions,Rafael Kane feels inconsistent to some supporters,0.4944
+9,2021Q1,1124,Rafael Moreau looks brilliant after 1124 fan mentions | Rafael Moreau looks clinical after 1124 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.5627
+9,2021Q2,985,Rafael Moreau looks brilliant after 985 fan mentions | Rafael Moreau looks clinical after 985 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.6818
+9,2021Q3,1223,Rafael Moreau looks brilliant after 1223 fan mentions,Rafael Moreau feels inconsistent to some supporters | Rafael Moreau feels overpriced to some supporters,-0.0385
+9,2021Q4,1121,Rafael Moreau looks brilliant after 1121 fan mentions | Rafael Moreau looks clinical after 1121 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.1795
+9,2022Q1,1180,Rafael Moreau looks brilliant after 1180 fan mentions | Rafael Moreau looks clinical after 1180 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.4372
+9,2022Q2,1263,Rafael Moreau looks brilliant after 1263 fan mentions | Rafael Moreau looks clinical after 1263 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.08
+9,2022Q3,1330,Rafael Moreau looks brilliant after 1330 fan mentions | Rafael Moreau looks clinical after 1330 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.0311
+9,2022Q4,1144,Rafael Moreau looks brilliant after 1144 fan mentions,Rafael Moreau feels inconsistent to some supporters | Rafael Moreau feels overpriced to some supporters,-0.1062
+9,2023Q1,1037,Rafael Moreau looks brilliant after 1037 fan mentions | Rafael Moreau looks clinical after 1037 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.4294
+9,2023Q2,966,Rafael Moreau looks brilliant after 966 fan mentions | Rafael Moreau looks clinical after 966 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.4822
+9,2023Q3,1136,Rafael Moreau looks brilliant after 1136 fan mentions | Rafael Moreau looks clinical after 1136 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.3385
+9,2023Q4,1023,Rafael Moreau looks brilliant after 1023 fan mentions | Rafael Moreau looks clinical after 1023 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.8534
+9,2024Q1,1095,Rafael Moreau looks brilliant after 1095 fan mentions | Rafael Moreau looks clinical after 1095 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.2705
+9,2024Q2,1322,Rafael Moreau looks brilliant after 1322 fan mentions | Rafael Moreau looks clinical after 1322 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.3669
+9,2024Q3,1110,Rafael Moreau looks brilliant after 1110 fan mentions | Rafael Moreau looks clinical after 1110 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.1441
+9,2024Q4,1278,Rafael Moreau looks brilliant after 1278 fan mentions | Rafael Moreau looks clinical after 1278 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.5875
+9,2025Q1,1111,Rafael Moreau looks brilliant after 1111 fan mentions | Rafael Moreau looks clinical after 1111 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.2501
+9,2025Q2,1006,Rafael Moreau looks brilliant after 1006 fan mentions,Rafael Moreau feels inconsistent to some supporters | Rafael Moreau feels overpriced to some supporters,-0.0935
+9,2025Q3,1145,Rafael Moreau looks brilliant after 1145 fan mentions | Rafael Moreau looks clinical after 1145 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.4995
+9,2025Q4,1098,Rafael Moreau looks brilliant after 1098 fan mentions | Rafael Moreau looks clinical after 1098 fan mentions,Rafael Moreau feels inconsistent to some supporters,0.891
+10,2021Q1,1207,Lucas Reed looks brilliant after 1207 fan mentions | Lucas Reed looks clinical after 1207 fan mentions,Lucas Reed feels inconsistent to some supporters,0.5405
+10,2021Q2,1224,Lucas Reed looks brilliant after 1224 fan mentions | Lucas Reed looks clinical after 1224 fan mentions,Lucas Reed feels inconsistent to some supporters,0.1297
+10,2021Q3,1362,Lucas Reed looks brilliant after 1362 fan mentions | Lucas Reed looks clinical after 1362 fan mentions,Lucas Reed feels inconsistent to some supporters,0.5583
+10,2021Q4,1199,Lucas Reed looks brilliant after 1199 fan mentions | Lucas Reed looks clinical after 1199 fan mentions,Lucas Reed feels inconsistent to some supporters,0.3133
+10,2022Q1,1387,Lucas Reed looks brilliant after 1387 fan mentions | Lucas Reed looks clinical after 1387 fan mentions,Lucas Reed feels inconsistent to some supporters,0.0011
+10,2022Q2,1473,Lucas Reed looks brilliant after 1473 fan mentions | Lucas Reed looks clinical after 1473 fan mentions,Lucas Reed feels inconsistent to some supporters,0.3985
+10,2022Q3,1330,Lucas Reed looks brilliant after 1330 fan mentions | Lucas Reed looks clinical after 1330 fan mentions,Lucas Reed feels inconsistent to some supporters,0.6167
+10,2022Q4,1368,Lucas Reed looks brilliant after 1368 fan mentions | Lucas Reed looks clinical after 1368 fan mentions,Lucas Reed feels inconsistent to some supporters,0.5687
+10,2023Q1,1688,Lucas Reed looks brilliant after 1688 fan mentions | Lucas Reed looks clinical after 1688 fan mentions,Lucas Reed feels inconsistent to some supporters,0.5013
+10,2023Q2,1389,Lucas Reed looks brilliant after 1389 fan mentions | Lucas Reed looks clinical after 1389 fan mentions,Lucas Reed feels inconsistent to some supporters,0.796
+10,2023Q3,1358,Lucas Reed looks brilliant after 1358 fan mentions | Lucas Reed looks clinical after 1358 fan mentions,Lucas Reed feels inconsistent to some supporters,0.4569
+10,2023Q4,1279,Lucas Reed looks brilliant after 1279 fan mentions | Lucas Reed looks clinical after 1279 fan mentions,Lucas Reed feels inconsistent to some supporters,0.24
+10,2024Q1,1256,Lucas Reed looks brilliant after 1256 fan mentions | Lucas Reed looks clinical after 1256 fan mentions,Lucas Reed feels inconsistent to some supporters,0.1739
+10,2024Q2,1445,Lucas Reed looks brilliant after 1445 fan mentions | Lucas Reed looks clinical after 1445 fan mentions,Lucas Reed feels inconsistent to some supporters,0.4544
+10,2024Q3,1350,Lucas Reed looks brilliant after 1350 fan mentions | Lucas Reed looks clinical after 1350 fan mentions,Lucas Reed feels inconsistent to some supporters,0.2965
+10,2024Q4,1389,Lucas Reed looks brilliant after 1389 fan mentions | Lucas Reed looks clinical after 1389 fan mentions,Lucas Reed feels inconsistent to some supporters,0.3002
+10,2025Q1,1378,Lucas Reed looks brilliant after 1378 fan mentions | Lucas Reed looks clinical after 1378 fan mentions,Lucas Reed feels inconsistent to some supporters,0.2577
+10,2025Q2,1469,Lucas Reed looks brilliant after 1469 fan mentions | Lucas Reed looks clinical after 1469 fan mentions,Lucas Reed feels inconsistent to some supporters,0.218
+10,2025Q3,1378,Lucas Reed looks brilliant after 1378 fan mentions,Lucas Reed feels inconsistent to some supporters | Lucas Reed feels overpriced to some supporters,-0.0371
+10,2025Q4,1261,Lucas Reed looks brilliant after 1261 fan mentions | Lucas Reed looks clinical after 1261 fan mentions,Lucas Reed feels inconsistent to some supporters,0.5514
+11,2021Q1,1485,Leo Costa looks brilliant after 1485 fan mentions | Leo Costa looks clinical after 1485 fan mentions,Leo Costa feels inconsistent to some supporters,0.0839
+11,2021Q2,1518,Leo Costa looks brilliant after 1518 fan mentions | Leo Costa looks clinical after 1518 fan mentions,Leo Costa feels inconsistent to some supporters,0.113
+11,2021Q3,1568,Leo Costa looks brilliant after 1568 fan mentions,Leo Costa feels inconsistent to some supporters | Leo Costa feels overpriced to some supporters,-0.0053
+11,2021Q4,1587,Leo Costa looks brilliant after 1587 fan mentions | Leo Costa looks clinical after 1587 fan mentions,Leo Costa feels inconsistent to some supporters,0.2938
+11,2022Q1,1643,Leo Costa looks brilliant after 1643 fan mentions | Leo Costa looks clinical after 1643 fan mentions,Leo Costa feels inconsistent to some supporters,0.5605
+11,2022Q2,1561,Leo Costa looks brilliant after 1561 fan mentions | Leo Costa looks clinical after 1561 fan mentions,Leo Costa feels inconsistent to some supporters,0.7327
+11,2022Q3,1712,Leo Costa looks brilliant after 1712 fan mentions | Leo Costa looks clinical after 1712 fan mentions,Leo Costa feels inconsistent to some supporters,0.3379
+11,2022Q4,1496,Leo Costa looks brilliant after 1496 fan mentions | Leo Costa looks clinical after 1496 fan mentions,Leo Costa feels inconsistent to some supporters,0.5809
+11,2023Q1,1613,Leo Costa looks brilliant after 1613 fan mentions | Leo Costa looks clinical after 1613 fan mentions,Leo Costa feels inconsistent to some supporters,0.3981
+11,2023Q2,1716,Leo Costa looks brilliant after 1716 fan mentions,Leo Costa feels inconsistent to some supporters | Leo Costa feels overpriced to some supporters,-0.1604
+11,2023Q3,1697,Leo Costa looks brilliant after 1697 fan mentions | Leo Costa looks clinical after 1697 fan mentions,Leo Costa feels inconsistent to some supporters,0.6622
+11,2023Q4,1720,Leo Costa looks brilliant after 1720 fan mentions | Leo Costa looks clinical after 1720 fan mentions,Leo Costa feels inconsistent to some supporters,0.1954
+11,2024Q1,1545,Leo Costa looks brilliant after 1545 fan mentions,Leo Costa feels inconsistent to some supporters | Leo Costa feels overpriced to some supporters,-0.2596
+11,2024Q2,1854,Leo Costa looks brilliant after 1854 fan mentions | Leo Costa looks clinical after 1854 fan mentions,Leo Costa feels inconsistent to some supporters,0.4623
+11,2024Q3,1510,Leo Costa looks brilliant after 1510 fan mentions | Leo Costa looks clinical after 1510 fan mentions,Leo Costa feels inconsistent to some supporters,0.2542
+11,2024Q4,1490,Leo Costa looks brilliant after 1490 fan mentions | Leo Costa looks clinical after 1490 fan mentions,Leo Costa feels inconsistent to some supporters,0.3093
+11,2025Q1,1671,Leo Costa looks brilliant after 1671 fan mentions | Leo Costa looks clinical after 1671 fan mentions,Leo Costa feels inconsistent to some supporters,0.5498
+11,2025Q2,1602,Leo Costa looks brilliant after 1602 fan mentions | Leo Costa looks clinical after 1602 fan mentions,Leo Costa feels inconsistent to some supporters,0.2206
+11,2025Q3,1217,Leo Costa looks brilliant after 1217 fan mentions | Leo Costa looks clinical after 1217 fan mentions,Leo Costa feels inconsistent to some supporters,0.34
+11,2025Q4,1605,Leo Costa looks brilliant after 1605 fan mentions | Leo Costa looks clinical after 1605 fan mentions,Leo Costa feels inconsistent to some supporters,0.2912
+12,2021Q1,1176,Rafael Diallo looks brilliant after 1176 fan mentions | Rafael Diallo looks clinical after 1176 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.8575
+12,2021Q2,1287,Rafael Diallo looks brilliant after 1287 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.0086
+12,2021Q3,1386,Rafael Diallo looks brilliant after 1386 fan mentions | Rafael Diallo looks clinical after 1386 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.1566
+12,2021Q4,1002,Rafael Diallo looks brilliant after 1002 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.1982
+12,2022Q1,1253,Rafael Diallo looks brilliant after 1253 fan mentions | Rafael Diallo looks clinical after 1253 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.5425
+12,2022Q2,1384,Rafael Diallo looks brilliant after 1384 fan mentions | Rafael Diallo looks clinical after 1384 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.1467
+12,2022Q3,1187,Rafael Diallo looks brilliant after 1187 fan mentions | Rafael Diallo looks clinical after 1187 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.6323
+12,2022Q4,1519,Rafael Diallo looks brilliant after 1519 fan mentions | Rafael Diallo looks clinical after 1519 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.6818
+12,2023Q1,1438,Rafael Diallo looks brilliant after 1438 fan mentions | Rafael Diallo looks clinical after 1438 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.4144
+12,2023Q2,1277,Rafael Diallo looks brilliant after 1277 fan mentions | Rafael Diallo looks clinical after 1277 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.573
+12,2023Q3,1139,Rafael Diallo looks brilliant after 1139 fan mentions | Rafael Diallo looks clinical after 1139 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.6362
+12,2023Q4,1095,Rafael Diallo looks brilliant after 1095 fan mentions | Rafael Diallo looks clinical after 1095 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.871
+12,2024Q1,1360,Rafael Diallo looks brilliant after 1360 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.3111
+12,2024Q2,1651,Rafael Diallo looks brilliant after 1651 fan mentions | Rafael Diallo looks clinical after 1651 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.3962
+12,2024Q3,1412,Rafael Diallo looks brilliant after 1412 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.0051
+12,2024Q4,1347,Rafael Diallo looks brilliant after 1347 fan mentions | Rafael Diallo looks clinical after 1347 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.9022
+12,2025Q1,1278,Rafael Diallo looks brilliant after 1278 fan mentions | Rafael Diallo looks clinical after 1278 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.3099
+12,2025Q2,1233,Rafael Diallo looks brilliant after 1233 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.1461
+12,2025Q3,1315,Rafael Diallo looks brilliant after 1315 fan mentions | Rafael Diallo looks clinical after 1315 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.1773
+12,2025Q4,1328,Rafael Diallo looks brilliant after 1328 fan mentions | Rafael Diallo looks clinical after 1328 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.2592
+13,2021Q1,1956,Mateo Rossi looks brilliant after 1956 fan mentions | Mateo Rossi looks clinical after 1956 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.2577
+13,2021Q2,1953,Mateo Rossi looks brilliant after 1953 fan mentions | Mateo Rossi looks clinical after 1953 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.2509
+13,2021Q3,1934,Mateo Rossi looks brilliant after 1934 fan mentions | Mateo Rossi looks clinical after 1934 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.3263
+13,2021Q4,1966,Mateo Rossi looks brilliant after 1966 fan mentions | Mateo Rossi looks clinical after 1966 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.4162
+13,2022Q1,1690,Mateo Rossi looks brilliant after 1690 fan mentions | Mateo Rossi looks clinical after 1690 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.5609
+13,2022Q2,1972,Mateo Rossi looks brilliant after 1972 fan mentions | Mateo Rossi looks clinical after 1972 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.6882
+13,2022Q3,1546,Mateo Rossi looks brilliant after 1546 fan mentions | Mateo Rossi looks clinical after 1546 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.6731
+13,2022Q4,1812,Mateo Rossi looks brilliant after 1812 fan mentions | Mateo Rossi looks clinical after 1812 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.844
+13,2023Q1,1766,Mateo Rossi looks brilliant after 1766 fan mentions | Mateo Rossi looks clinical after 1766 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.1732
+13,2023Q2,1807,Mateo Rossi looks brilliant after 1807 fan mentions | Mateo Rossi looks clinical after 1807 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.8801
+13,2023Q3,2016,Mateo Rossi looks brilliant after 2016 fan mentions | Mateo Rossi looks clinical after 2016 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.4044
+13,2023Q4,1961,Mateo Rossi looks brilliant after 1961 fan mentions | Mateo Rossi looks clinical after 1961 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.598
+13,2024Q1,1828,Mateo Rossi looks brilliant after 1828 fan mentions | Mateo Rossi looks clinical after 1828 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.2507
+13,2024Q2,1863,Mateo Rossi looks brilliant after 1863 fan mentions | Mateo Rossi looks clinical after 1863 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.3592
+13,2024Q3,2057,Mateo Rossi looks brilliant after 2057 fan mentions | Mateo Rossi looks clinical after 2057 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.5665
+13,2024Q4,1851,Mateo Rossi looks brilliant after 1851 fan mentions | Mateo Rossi looks clinical after 1851 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.2408
+13,2025Q1,1791,Mateo Rossi looks brilliant after 1791 fan mentions | Mateo Rossi looks clinical after 1791 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.7452
+13,2025Q2,1849,Mateo Rossi looks brilliant after 1849 fan mentions | Mateo Rossi looks clinical after 1849 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.4175
+13,2025Q3,1784,Mateo Rossi looks brilliant after 1784 fan mentions | Mateo Rossi looks clinical after 1784 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.7461
+13,2025Q4,2017,Mateo Rossi looks brilliant after 2017 fan mentions | Mateo Rossi looks clinical after 2017 fan mentions,Mateo Rossi feels inconsistent to some supporters,0.2811
+14,2021Q1,529,Andre Garcia looks brilliant after 529 fan mentions | Andre Garcia looks clinical after 529 fan mentions,Andre Garcia feels inconsistent to some supporters,0.417
+14,2021Q2,433,Andre Garcia looks brilliant after 433 fan mentions | Andre Garcia looks clinical after 433 fan mentions,Andre Garcia feels inconsistent to some supporters,0.4094
+14,2021Q3,263,Andre Garcia looks brilliant after 263 fan mentions,Andre Garcia feels inconsistent to some supporters | Andre Garcia feels overpriced to some supporters,-0.0759
+14,2021Q4,214,Andre Garcia looks brilliant after 214 fan mentions | Andre Garcia looks clinical after 214 fan mentions,Andre Garcia feels inconsistent to some supporters,0.3726
+14,2022Q1,493,Andre Garcia looks brilliant after 493 fan mentions | Andre Garcia looks clinical after 493 fan mentions,Andre Garcia feels inconsistent to some supporters,0.355
+14,2022Q2,437,Andre Garcia looks brilliant after 437 fan mentions | Andre Garcia looks clinical after 437 fan mentions,Andre Garcia feels inconsistent to some supporters,0.234
+14,2022Q3,384,Andre Garcia looks brilliant after 384 fan mentions | Andre Garcia looks clinical after 384 fan mentions,Andre Garcia feels inconsistent to some supporters,0.5432
+14,2022Q4,741,Andre Garcia looks brilliant after 741 fan mentions | Andre Garcia looks clinical after 741 fan mentions,Andre Garcia feels inconsistent to some supporters,0.3358
+14,2023Q1,570,Andre Garcia looks brilliant after 570 fan mentions | Andre Garcia looks clinical after 570 fan mentions,Andre Garcia feels inconsistent to some supporters,0.0115
+14,2023Q2,355,Andre Garcia looks brilliant after 355 fan mentions | Andre Garcia looks clinical after 355 fan mentions,Andre Garcia feels inconsistent to some supporters,0.4571
+14,2023Q3,457,Andre Garcia looks brilliant after 457 fan mentions | Andre Garcia looks clinical after 457 fan mentions,Andre Garcia feels inconsistent to some supporters,0.4809
+14,2023Q4,301,Andre Garcia looks brilliant after 301 fan mentions | Andre Garcia looks clinical after 301 fan mentions,Andre Garcia feels inconsistent to some supporters,0.4328
+14,2024Q1,477,Andre Garcia looks brilliant after 477 fan mentions | Andre Garcia looks clinical after 477 fan mentions,Andre Garcia feels inconsistent to some supporters,0.1347
+14,2024Q2,637,Andre Garcia looks brilliant after 637 fan mentions,Andre Garcia feels inconsistent to some supporters | Andre Garcia feels overpriced to some supporters,-0.3285
+14,2024Q3,495,Andre Garcia looks brilliant after 495 fan mentions | Andre Garcia looks clinical after 495 fan mentions,Andre Garcia feels inconsistent to some supporters,0.1847
+14,2024Q4,395,Andre Garcia looks brilliant after 395 fan mentions,Andre Garcia feels inconsistent to some supporters | Andre Garcia feels overpriced to some supporters,-0.1794
+14,2025Q1,354,Andre Garcia looks brilliant after 354 fan mentions | Andre Garcia looks clinical after 354 fan mentions,Andre Garcia feels inconsistent to some supporters,0.0917
+14,2025Q2,393,Andre Garcia looks brilliant after 393 fan mentions | Andre Garcia looks clinical after 393 fan mentions,Andre Garcia feels inconsistent to some supporters,0.179
+14,2025Q3,380,Andre Garcia looks brilliant after 380 fan mentions | Andre Garcia looks clinical after 380 fan mentions,Andre Garcia feels inconsistent to some supporters,0.5379
+14,2025Q4,654,Andre Garcia looks brilliant after 654 fan mentions | Andre Garcia looks clinical after 654 fan mentions,Andre Garcia feels inconsistent to some supporters,0.0975
+15,2021Q1,1363,Rafael Diallo looks brilliant after 1363 fan mentions | Rafael Diallo looks clinical after 1363 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.6068
+15,2021Q2,1252,Rafael Diallo looks brilliant after 1252 fan mentions | Rafael Diallo looks clinical after 1252 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.3924
+15,2021Q3,1152,Rafael Diallo looks brilliant after 1152 fan mentions | Rafael Diallo looks clinical after 1152 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.2494
+15,2021Q4,1301,Rafael Diallo looks brilliant after 1301 fan mentions | Rafael Diallo looks clinical after 1301 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.3289
+15,2022Q1,1111,Rafael Diallo looks brilliant after 1111 fan mentions | Rafael Diallo looks clinical after 1111 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.4285
+15,2022Q2,1182,Rafael Diallo looks brilliant after 1182 fan mentions | Rafael Diallo looks clinical after 1182 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.1078
+15,2022Q3,1562,Rafael Diallo looks brilliant after 1562 fan mentions | Rafael Diallo looks clinical after 1562 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.2322
+15,2022Q4,1194,Rafael Diallo looks brilliant after 1194 fan mentions | Rafael Diallo looks clinical after 1194 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.0218
+15,2023Q1,1343,Rafael Diallo looks brilliant after 1343 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.005
+15,2023Q2,1387,Rafael Diallo looks brilliant after 1387 fan mentions | Rafael Diallo looks clinical after 1387 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.4114
+15,2023Q3,1556,Rafael Diallo looks brilliant after 1556 fan mentions | Rafael Diallo looks clinical after 1556 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.433
+15,2023Q4,1531,Rafael Diallo looks brilliant after 1531 fan mentions | Rafael Diallo looks clinical after 1531 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.2429
+15,2024Q1,1266,Rafael Diallo looks brilliant after 1266 fan mentions | Rafael Diallo looks clinical after 1266 fan mentions,Rafael Diallo feels inconsistent to some supporters,1.0
+15,2024Q2,1186,Rafael Diallo looks brilliant after 1186 fan mentions | Rafael Diallo looks clinical after 1186 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.4105
+15,2024Q3,1412,Rafael Diallo looks brilliant after 1412 fan mentions,Rafael Diallo feels inconsistent to some supporters | Rafael Diallo feels overpriced to some supporters,-0.1398
+15,2024Q4,1206,Rafael Diallo looks brilliant after 1206 fan mentions | Rafael Diallo looks clinical after 1206 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.1172
+15,2025Q1,1273,Rafael Diallo looks brilliant after 1273 fan mentions | Rafael Diallo looks clinical after 1273 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.0568
+15,2025Q2,1264,Rafael Diallo looks brilliant after 1264 fan mentions | Rafael Diallo looks clinical after 1264 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.7202
+15,2025Q3,1430,Rafael Diallo looks brilliant after 1430 fan mentions | Rafael Diallo looks clinical after 1430 fan mentions,Rafael Diallo feels inconsistent to some supporters,1.0
+15,2025Q4,1111,Rafael Diallo looks brilliant after 1111 fan mentions | Rafael Diallo looks clinical after 1111 fan mentions,Rafael Diallo feels inconsistent to some supporters,0.5759
+16,2021Q1,1351,Theo Moreau looks brilliant after 1351 fan mentions | Theo Moreau looks clinical after 1351 fan mentions,Theo Moreau feels inconsistent to some supporters,0.6712
+16,2021Q2,1456,Theo Moreau looks brilliant after 1456 fan mentions | Theo Moreau looks clinical after 1456 fan mentions,Theo Moreau feels inconsistent to some supporters,0.7206
+16,2021Q3,1320,Theo Moreau looks brilliant after 1320 fan mentions | Theo Moreau looks clinical after 1320 fan mentions,Theo Moreau feels inconsistent to some supporters,0.4655
+16,2021Q4,1474,Theo Moreau looks brilliant after 1474 fan mentions | Theo Moreau looks clinical after 1474 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3691
+16,2022Q1,1390,Theo Moreau looks brilliant after 1390 fan mentions | Theo Moreau looks clinical after 1390 fan mentions,Theo Moreau feels inconsistent to some supporters,0.6829
+16,2022Q2,1398,Theo Moreau looks brilliant after 1398 fan mentions | Theo Moreau looks clinical after 1398 fan mentions,Theo Moreau feels inconsistent to some supporters,0.533
+16,2022Q3,1624,Theo Moreau looks brilliant after 1624 fan mentions | Theo Moreau looks clinical after 1624 fan mentions,Theo Moreau feels inconsistent to some supporters,0.6896
+16,2022Q4,1480,Theo Moreau looks brilliant after 1480 fan mentions | Theo Moreau looks clinical after 1480 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3394
+16,2023Q1,1563,Theo Moreau looks brilliant after 1563 fan mentions | Theo Moreau looks clinical after 1563 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3962
+16,2023Q2,1217,Theo Moreau looks brilliant after 1217 fan mentions | Theo Moreau looks clinical after 1217 fan mentions,Theo Moreau feels inconsistent to some supporters,0.311
+16,2023Q3,1417,Theo Moreau looks brilliant after 1417 fan mentions,Theo Moreau feels inconsistent to some supporters | Theo Moreau feels overpriced to some supporters,-0.1478
+16,2023Q4,1343,Theo Moreau looks brilliant after 1343 fan mentions | Theo Moreau looks clinical after 1343 fan mentions,Theo Moreau feels inconsistent to some supporters,0.4659
+16,2024Q1,1394,Theo Moreau looks brilliant after 1394 fan mentions | Theo Moreau looks clinical after 1394 fan mentions,Theo Moreau feels inconsistent to some supporters,0.6924
+16,2024Q2,1425,Theo Moreau looks brilliant after 1425 fan mentions | Theo Moreau looks clinical after 1425 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3846
+16,2024Q3,1337,Theo Moreau looks brilliant after 1337 fan mentions | Theo Moreau looks clinical after 1337 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3373
+16,2024Q4,1358,Theo Moreau looks brilliant after 1358 fan mentions | Theo Moreau looks clinical after 1358 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3051
+16,2025Q1,1514,Theo Moreau looks brilliant after 1514 fan mentions | Theo Moreau looks clinical after 1514 fan mentions,Theo Moreau feels inconsistent to some supporters,0.3275
+16,2025Q2,1492,Theo Moreau looks brilliant after 1492 fan mentions | Theo Moreau looks clinical after 1492 fan mentions,Theo Moreau feels inconsistent to some supporters,0.0319
+16,2025Q3,1463,Theo Moreau looks brilliant after 1463 fan mentions | Theo Moreau looks clinical after 1463 fan mentions,Theo Moreau feels inconsistent to some supporters,0.7885
+16,2025Q4,1254,Theo Moreau looks brilliant after 1254 fan mentions | Theo Moreau looks clinical after 1254 fan mentions,Theo Moreau feels inconsistent to some supporters,0.6324
+17,2021Q1,1223,Theo Costa looks brilliant after 1223 fan mentions | Theo Costa looks clinical after 1223 fan mentions,Theo Costa feels inconsistent to some supporters,0.8861
+17,2021Q2,1273,Theo Costa looks brilliant after 1273 fan mentions,Theo Costa feels inconsistent to some supporters | Theo Costa feels overpriced to some supporters,-0.0734
+17,2021Q3,998,Theo Costa looks brilliant after 998 fan mentions | Theo Costa looks clinical after 998 fan mentions,Theo Costa feels inconsistent to some supporters,0.4266
+17,2021Q4,1324,Theo Costa looks brilliant after 1324 fan mentions | Theo Costa looks clinical after 1324 fan mentions,Theo Costa feels inconsistent to some supporters,0.3254
+17,2022Q1,1392,Theo Costa looks brilliant after 1392 fan mentions | Theo Costa looks clinical after 1392 fan mentions,Theo Costa feels inconsistent to some supporters,0.6478
+17,2022Q2,1347,Theo Costa looks brilliant after 1347 fan mentions | Theo Costa looks clinical after 1347 fan mentions,Theo Costa feels inconsistent to some supporters,0.3662
+17,2022Q3,1275,Theo Costa looks brilliant after 1275 fan mentions | Theo Costa looks clinical after 1275 fan mentions,Theo Costa feels inconsistent to some supporters,0.2905
+17,2022Q4,1219,Theo Costa looks brilliant after 1219 fan mentions | Theo Costa looks clinical after 1219 fan mentions,Theo Costa feels inconsistent to some supporters,0.2851
+17,2023Q1,1010,Theo Costa looks brilliant after 1010 fan mentions | Theo Costa looks clinical after 1010 fan mentions,Theo Costa feels inconsistent to some supporters,0.3773
+17,2023Q2,1304,Theo Costa looks brilliant after 1304 fan mentions,Theo Costa feels inconsistent to some supporters | Theo Costa feels overpriced to some supporters,-0.1218
+17,2023Q3,1426,Theo Costa looks brilliant after 1426 fan mentions | Theo Costa looks clinical after 1426 fan mentions,Theo Costa feels inconsistent to some supporters,0.0722
+17,2023Q4,1149,Theo Costa looks brilliant after 1149 fan mentions | Theo Costa looks clinical after 1149 fan mentions,Theo Costa feels inconsistent to some supporters,0.534
+17,2024Q1,1310,Theo Costa looks brilliant after 1310 fan mentions | Theo Costa looks clinical after 1310 fan mentions,Theo Costa feels inconsistent to some supporters,0.7781
+17,2024Q2,1226,Theo Costa looks brilliant after 1226 fan mentions,Theo Costa feels inconsistent to some supporters | Theo Costa feels overpriced to some supporters,-0.1832
+17,2024Q3,1049,Theo Costa looks brilliant after 1049 fan mentions | Theo Costa looks clinical after 1049 fan mentions,Theo Costa feels inconsistent to some supporters,0.9525
+17,2024Q4,1021,Theo Costa looks brilliant after 1021 fan mentions | Theo Costa looks clinical after 1021 fan mentions,Theo Costa feels inconsistent to some supporters,0.2458
+17,2025Q1,1177,Theo Costa looks brilliant after 1177 fan mentions | Theo Costa looks clinical after 1177 fan mentions,Theo Costa feels inconsistent to some supporters,0.6298
+17,2025Q2,1147,Theo Costa looks brilliant after 1147 fan mentions | Theo Costa looks clinical after 1147 fan mentions,Theo Costa feels inconsistent to some supporters,0.4915
+17,2025Q3,1167,Theo Costa looks brilliant after 1167 fan mentions | Theo Costa looks clinical after 1167 fan mentions,Theo Costa feels inconsistent to some supporters,0.6963
+17,2025Q4,1133,Theo Costa looks brilliant after 1133 fan mentions | Theo Costa looks clinical after 1133 fan mentions,Theo Costa feels inconsistent to some supporters,0.2987
+18,2021Q1,904,Milan Silva looks brilliant after 904 fan mentions | Milan Silva looks clinical after 904 fan mentions,Milan Silva feels inconsistent to some supporters,0.5229
+18,2021Q2,851,Milan Silva looks brilliant after 851 fan mentions | Milan Silva looks clinical after 851 fan mentions,Milan Silva feels inconsistent to some supporters,0.1958
+18,2021Q3,669,Milan Silva looks brilliant after 669 fan mentions,Milan Silva feels inconsistent to some supporters | Milan Silva feels overpriced to some supporters,-0.2081
+18,2021Q4,845,Milan Silva looks brilliant after 845 fan mentions | Milan Silva looks clinical after 845 fan mentions,Milan Silva feels inconsistent to some supporters,0.0368
+18,2022Q1,708,Milan Silva looks brilliant after 708 fan mentions | Milan Silva looks clinical after 708 fan mentions,Milan Silva feels inconsistent to some supporters,0.6691
+18,2022Q2,822,Milan Silva looks brilliant after 822 fan mentions | Milan Silva looks clinical after 822 fan mentions,Milan Silva feels inconsistent to some supporters,0.2105
+18,2022Q3,709,Milan Silva looks brilliant after 709 fan mentions | Milan Silva looks clinical after 709 fan mentions,Milan Silva feels inconsistent to some supporters,0.2585
+18,2022Q4,932,Milan Silva looks brilliant after 932 fan mentions | Milan Silva looks clinical after 932 fan mentions,Milan Silva feels inconsistent to some supporters,0.3959
+18,2023Q1,715,Milan Silva looks brilliant after 715 fan mentions | Milan Silva looks clinical after 715 fan mentions,Milan Silva feels inconsistent to some supporters,0.2482
+18,2023Q2,749,Milan Silva looks brilliant after 749 fan mentions,Milan Silva feels inconsistent to some supporters | Milan Silva feels overpriced to some supporters,-0.0128
+18,2023Q3,928,Milan Silva looks brilliant after 928 fan mentions,Milan Silva feels inconsistent to some supporters | Milan Silva feels overpriced to some supporters,-0.2751
+18,2023Q4,746,Milan Silva looks brilliant after 746 fan mentions | Milan Silva looks clinical after 746 fan mentions,Milan Silva feels inconsistent to some supporters,0.1592
+18,2024Q1,963,Milan Silva looks brilliant after 963 fan mentions | Milan Silva looks clinical after 963 fan mentions,Milan Silva feels inconsistent to some supporters,0.2438
+18,2024Q2,689,Milan Silva looks brilliant after 689 fan mentions | Milan Silva looks clinical after 689 fan mentions,Milan Silva feels inconsistent to some supporters,0.6046
+18,2024Q3,653,Milan Silva looks brilliant after 653 fan mentions | Milan Silva looks clinical after 653 fan mentions,Milan Silva feels inconsistent to some supporters,0.8366
+18,2024Q4,630,Milan Silva looks brilliant after 630 fan mentions | Milan Silva looks clinical after 630 fan mentions,Milan Silva feels inconsistent to some supporters,0.2866
+18,2025Q1,702,Milan Silva looks brilliant after 702 fan mentions,Milan Silva feels inconsistent to some supporters | Milan Silva feels overpriced to some supporters,-0.4112
+18,2025Q2,715,Milan Silva looks brilliant after 715 fan mentions | Milan Silva looks clinical after 715 fan mentions,Milan Silva feels inconsistent to some supporters,0.1775
+18,2025Q3,777,Milan Silva looks brilliant after 777 fan mentions | Milan Silva looks clinical after 777 fan mentions,Milan Silva feels inconsistent to some supporters,0.1662
+18,2025Q4,710,Milan Silva looks brilliant after 710 fan mentions | Milan Silva looks clinical after 710 fan mentions,Milan Silva feels inconsistent to some supporters,0.1698
+19,2021Q1,1097,Noah Santos looks brilliant after 1097 fan mentions | Noah Santos looks clinical after 1097 fan mentions,Noah Santos feels inconsistent to some supporters,0.4465
+19,2021Q2,1122,Noah Santos looks brilliant after 1122 fan mentions | Noah Santos looks clinical after 1122 fan mentions,Noah Santos feels inconsistent to some supporters,0.4695
+19,2021Q3,1224,Noah Santos looks brilliant after 1224 fan mentions,Noah Santos feels inconsistent to some supporters | Noah Santos feels overpriced to some supporters,-0.0336
+19,2021Q4,1418,Noah Santos looks brilliant after 1418 fan mentions | Noah Santos looks clinical after 1418 fan mentions,Noah Santos feels inconsistent to some supporters,0.0724
+19,2022Q1,1273,Noah Santos looks brilliant after 1273 fan mentions | Noah Santos looks clinical after 1273 fan mentions,Noah Santos feels inconsistent to some supporters,0.4146
+19,2022Q2,1188,Noah Santos looks brilliant after 1188 fan mentions,Noah Santos feels inconsistent to some supporters | Noah Santos feels overpriced to some supporters,-0.0879
+19,2022Q3,1684,Noah Santos looks brilliant after 1684 fan mentions,Noah Santos feels inconsistent to some supporters | Noah Santos feels overpriced to some supporters,-0.1305
+19,2022Q4,1194,Noah Santos looks brilliant after 1194 fan mentions | Noah Santos looks clinical after 1194 fan mentions,Noah Santos feels inconsistent to some supporters,0.1634
+19,2023Q1,1325,Noah Santos looks brilliant after 1325 fan mentions | Noah Santos looks clinical after 1325 fan mentions,Noah Santos feels inconsistent to some supporters,0.3786
+19,2023Q2,1228,Noah Santos looks brilliant after 1228 fan mentions | Noah Santos looks clinical after 1228 fan mentions,Noah Santos feels inconsistent to some supporters,0.0877
+19,2023Q3,1381,Noah Santos looks brilliant after 1381 fan mentions | Noah Santos looks clinical after 1381 fan mentions,Noah Santos feels inconsistent to some supporters,0.7417
+19,2023Q4,1676,Noah Santos looks brilliant after 1676 fan mentions | Noah Santos looks clinical after 1676 fan mentions,Noah Santos feels inconsistent to some supporters,0.1616
+19,2024Q1,1536,Noah Santos looks brilliant after 1536 fan mentions | Noah Santos looks clinical after 1536 fan mentions,Noah Santos feels inconsistent to some supporters,0.1718
+19,2024Q2,1622,Noah Santos looks brilliant after 1622 fan mentions | Noah Santos looks clinical after 1622 fan mentions,Noah Santos feels inconsistent to some supporters,0.4995
+19,2024Q3,1261,Noah Santos looks brilliant after 1261 fan mentions | Noah Santos looks clinical after 1261 fan mentions,Noah Santos feels inconsistent to some supporters,0.0646
+19,2024Q4,1277,Noah Santos looks brilliant after 1277 fan mentions | Noah Santos looks clinical after 1277 fan mentions,Noah Santos feels inconsistent to some supporters,0.6105
+19,2025Q1,1359,Noah Santos looks brilliant after 1359 fan mentions | Noah Santos looks clinical after 1359 fan mentions,Noah Santos feels inconsistent to some supporters,0.3321
+19,2025Q2,1491,Noah Santos looks brilliant after 1491 fan mentions | Noah Santos looks clinical after 1491 fan mentions,Noah Santos feels inconsistent to some supporters,0.8047
+19,2025Q3,1448,Noah Santos looks brilliant after 1448 fan mentions | Noah Santos looks clinical after 1448 fan mentions,Noah Santos feels inconsistent to some supporters,0.1625
+19,2025Q4,1363,Noah Santos looks brilliant after 1363 fan mentions | Noah Santos looks clinical after 1363 fan mentions,Noah Santos feels inconsistent to some supporters,0.9251
+20,2021Q1,1279,Rafael Meyer looks brilliant after 1279 fan mentions | Rafael Meyer looks clinical after 1279 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.391
+20,2021Q2,1445,Rafael Meyer looks brilliant after 1445 fan mentions | Rafael Meyer looks clinical after 1445 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.6878
+20,2021Q3,1375,Rafael Meyer looks brilliant after 1375 fan mentions | Rafael Meyer looks clinical after 1375 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.4128
+20,2021Q4,1301,Rafael Meyer looks brilliant after 1301 fan mentions | Rafael Meyer looks clinical after 1301 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.2708
+20,2022Q1,1684,Rafael Meyer looks brilliant after 1684 fan mentions | Rafael Meyer looks clinical after 1684 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.5787
+20,2022Q2,1426,Rafael Meyer looks brilliant after 1426 fan mentions | Rafael Meyer looks clinical after 1426 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.2673
+20,2022Q3,1357,Rafael Meyer looks brilliant after 1357 fan mentions | Rafael Meyer looks clinical after 1357 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.7104
+20,2022Q4,1261,Rafael Meyer looks brilliant after 1261 fan mentions | Rafael Meyer looks clinical after 1261 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.5587
+20,2023Q1,1313,Rafael Meyer looks brilliant after 1313 fan mentions | Rafael Meyer looks clinical after 1313 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.5747
+20,2023Q2,1532,Rafael Meyer looks brilliant after 1532 fan mentions | Rafael Meyer looks clinical after 1532 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.1454
+20,2023Q3,1365,Rafael Meyer looks brilliant after 1365 fan mentions,Rafael Meyer feels inconsistent to some supporters | Rafael Meyer feels overpriced to some supporters,-0.1633
+20,2023Q4,1562,Rafael Meyer looks brilliant after 1562 fan mentions | Rafael Meyer looks clinical after 1562 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.4927
+20,2024Q1,1340,Rafael Meyer looks brilliant after 1340 fan mentions | Rafael Meyer looks clinical after 1340 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.1379
+20,2024Q2,1468,Rafael Meyer looks brilliant after 1468 fan mentions | Rafael Meyer looks clinical after 1468 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.7804
+20,2024Q3,1428,Rafael Meyer looks brilliant after 1428 fan mentions | Rafael Meyer looks clinical after 1428 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.6728
+20,2024Q4,1663,Rafael Meyer looks brilliant after 1663 fan mentions | Rafael Meyer looks clinical after 1663 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.5746
+20,2025Q1,1335,Rafael Meyer looks brilliant after 1335 fan mentions | Rafael Meyer looks clinical after 1335 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.5447
+20,2025Q2,1477,Rafael Meyer looks brilliant after 1477 fan mentions | Rafael Meyer looks clinical after 1477 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.1571
+20,2025Q3,1452,Rafael Meyer looks brilliant after 1452 fan mentions | Rafael Meyer looks clinical after 1452 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.3716
+20,2025Q4,1381,Rafael Meyer looks brilliant after 1381 fan mentions | Rafael Meyer looks clinical after 1381 fan mentions,Rafael Meyer feels inconsistent to some supporters,0.2835
+21,2021Q1,1470,Nico Kane looks brilliant after 1470 fan mentions | Nico Kane looks clinical after 1470 fan mentions,Nico Kane feels inconsistent to some supporters,0.7899
+21,2021Q2,1881,Nico Kane looks brilliant after 1881 fan mentions | Nico Kane looks clinical after 1881 fan mentions,Nico Kane feels inconsistent to some supporters,0.6046
+21,2021Q3,1571,Nico Kane looks brilliant after 1571 fan mentions | Nico Kane looks clinical after 1571 fan mentions,Nico Kane feels inconsistent to some supporters,0.3783
+21,2021Q4,1673,Nico Kane looks brilliant after 1673 fan mentions | Nico Kane looks clinical after 1673 fan mentions,Nico Kane feels inconsistent to some supporters,0.5637
+21,2022Q1,1638,Nico Kane looks brilliant after 1638 fan mentions | Nico Kane looks clinical after 1638 fan mentions,Nico Kane feels inconsistent to some supporters,0.3558
+21,2022Q2,1386,Nico Kane looks brilliant after 1386 fan mentions | Nico Kane looks clinical after 1386 fan mentions,Nico Kane feels inconsistent to some supporters,0.4698
+21,2022Q3,1625,Nico Kane looks brilliant after 1625 fan mentions | Nico Kane looks clinical after 1625 fan mentions,Nico Kane feels inconsistent to some supporters,0.5292
+21,2022Q4,1831,Nico Kane looks brilliant after 1831 fan mentions | Nico Kane looks clinical after 1831 fan mentions,Nico Kane feels inconsistent to some supporters,0.2346
+21,2023Q1,1584,Nico Kane looks brilliant after 1584 fan mentions | Nico Kane looks clinical after 1584 fan mentions,Nico Kane feels inconsistent to some supporters,0.54
+21,2023Q2,1614,Nico Kane looks brilliant after 1614 fan mentions | Nico Kane looks clinical after 1614 fan mentions,Nico Kane feels inconsistent to some supporters,0.5125
+21,2023Q3,1805,Nico Kane looks brilliant after 1805 fan mentions | Nico Kane looks clinical after 1805 fan mentions,Nico Kane feels inconsistent to some supporters,0.2415
+21,2023Q4,1707,Nico Kane looks brilliant after 1707 fan mentions | Nico Kane looks clinical after 1707 fan mentions,Nico Kane feels inconsistent to some supporters,0.6128
+21,2024Q1,1678,Nico Kane looks brilliant after 1678 fan mentions | Nico Kane looks clinical after 1678 fan mentions,Nico Kane feels inconsistent to some supporters,0.0863
+21,2024Q2,1938,Nico Kane looks brilliant after 1938 fan mentions | Nico Kane looks clinical after 1938 fan mentions,Nico Kane feels inconsistent to some supporters,0.0587
+21,2024Q3,1531,Nico Kane looks brilliant after 1531 fan mentions | Nico Kane looks clinical after 1531 fan mentions,Nico Kane feels inconsistent to some supporters,0.2161
+21,2024Q4,1475,Nico Kane looks brilliant after 1475 fan mentions | Nico Kane looks clinical after 1475 fan mentions,Nico Kane feels inconsistent to some supporters,0.4539
+21,2025Q1,1872,Nico Kane looks brilliant after 1872 fan mentions | Nico Kane looks clinical after 1872 fan mentions,Nico Kane feels inconsistent to some supporters,0.5333
+21,2025Q2,1501,Nico Kane looks brilliant after 1501 fan mentions | Nico Kane looks clinical after 1501 fan mentions,Nico Kane feels inconsistent to some supporters,0.34
+21,2025Q3,1514,Nico Kane looks brilliant after 1514 fan mentions | Nico Kane looks clinical after 1514 fan mentions,Nico Kane feels inconsistent to some supporters,0.5947
+21,2025Q4,1912,Nico Kane looks brilliant after 1912 fan mentions | Nico Kane looks clinical after 1912 fan mentions,Nico Kane feels inconsistent to some supporters,0.3609
+22,2021Q1,1132,Victor Meyer looks brilliant after 1132 fan mentions | Victor Meyer looks clinical after 1132 fan mentions,Victor Meyer feels inconsistent to some supporters,0.223
+22,2021Q2,963,Victor Meyer looks brilliant after 963 fan mentions | Victor Meyer looks clinical after 963 fan mentions,Victor Meyer feels inconsistent to some supporters,1.0
+22,2021Q3,1120,Victor Meyer looks brilliant after 1120 fan mentions | Victor Meyer looks clinical after 1120 fan mentions,Victor Meyer feels inconsistent to some supporters,0.5422
+22,2021Q4,987,Victor Meyer looks brilliant after 987 fan mentions | Victor Meyer looks clinical after 987 fan mentions,Victor Meyer feels inconsistent to some supporters,0.783
+22,2022Q1,876,Victor Meyer looks brilliant after 876 fan mentions | Victor Meyer looks clinical after 876 fan mentions,Victor Meyer feels inconsistent to some supporters,0.1149
+22,2022Q2,1148,Victor Meyer looks brilliant after 1148 fan mentions,Victor Meyer feels inconsistent to some supporters | Victor Meyer feels overpriced to some supporters,-0.0243
+22,2022Q3,1032,Victor Meyer looks brilliant after 1032 fan mentions | Victor Meyer looks clinical after 1032 fan mentions,Victor Meyer feels inconsistent to some supporters,0.1836
+22,2022Q4,1094,Victor Meyer looks brilliant after 1094 fan mentions | Victor Meyer looks clinical after 1094 fan mentions,Victor Meyer feels inconsistent to some supporters,0.1774
+22,2023Q1,1108,Victor Meyer looks brilliant after 1108 fan mentions | Victor Meyer looks clinical after 1108 fan mentions,Victor Meyer feels inconsistent to some supporters,0.0183
+22,2023Q2,1231,Victor Meyer looks brilliant after 1231 fan mentions,Victor Meyer feels inconsistent to some supporters | Victor Meyer feels overpriced to some supporters,-0.441
+22,2023Q3,1129,Victor Meyer looks brilliant after 1129 fan mentions | Victor Meyer looks clinical after 1129 fan mentions,Victor Meyer feels inconsistent to some supporters,0.4516
+22,2023Q4,705,Victor Meyer looks brilliant after 705 fan mentions | Victor Meyer looks clinical after 705 fan mentions,Victor Meyer feels inconsistent to some supporters,0.4108
+22,2024Q1,822,Victor Meyer looks brilliant after 822 fan mentions | Victor Meyer looks clinical after 822 fan mentions,Victor Meyer feels inconsistent to some supporters,0.136
+22,2024Q2,847,Victor Meyer looks brilliant after 847 fan mentions | Victor Meyer looks clinical after 847 fan mentions,Victor Meyer feels inconsistent to some supporters,0.798
+22,2024Q3,1223,Victor Meyer looks brilliant after 1223 fan mentions | Victor Meyer looks clinical after 1223 fan mentions,Victor Meyer feels inconsistent to some supporters,0.443
+22,2024Q4,921,Victor Meyer looks brilliant after 921 fan mentions | Victor Meyer looks clinical after 921 fan mentions,Victor Meyer feels inconsistent to some supporters,0.6761
+22,2025Q1,1424,Victor Meyer looks brilliant after 1424 fan mentions,Victor Meyer feels inconsistent to some supporters | Victor Meyer feels overpriced to some supporters,-0.0068
+22,2025Q2,1172,Victor Meyer looks brilliant after 1172 fan mentions | Victor Meyer looks clinical after 1172 fan mentions,Victor Meyer feels inconsistent to some supporters,0.0921
+22,2025Q3,661,Victor Meyer looks brilliant after 661 fan mentions,Victor Meyer feels inconsistent to some supporters | Victor Meyer feels overpriced to some supporters,-0.1076
+22,2025Q4,961,Victor Meyer looks brilliant after 961 fan mentions | Victor Meyer looks clinical after 961 fan mentions,Victor Meyer feels inconsistent to some supporters,0.2208
+23,2021Q1,1809,Victor Martin looks brilliant after 1809 fan mentions | Victor Martin looks clinical after 1809 fan mentions,Victor Martin feels inconsistent to some supporters,0.5217
+23,2021Q2,2091,Victor Martin looks brilliant after 2091 fan mentions | Victor Martin looks clinical after 2091 fan mentions,Victor Martin feels inconsistent to some supporters,0.762
+23,2021Q3,1971,Victor Martin looks brilliant after 1971 fan mentions | Victor Martin looks clinical after 1971 fan mentions,Victor Martin feels inconsistent to some supporters,0.8448
+23,2021Q4,1829,Victor Martin looks brilliant after 1829 fan mentions | Victor Martin looks clinical after 1829 fan mentions,Victor Martin feels inconsistent to some supporters,0.2558
+23,2022Q1,1825,Victor Martin looks brilliant after 1825 fan mentions | Victor Martin looks clinical after 1825 fan mentions,Victor Martin feels inconsistent to some supporters,0.4853
+23,2022Q2,1686,Victor Martin looks brilliant after 1686 fan mentions | Victor Martin looks clinical after 1686 fan mentions,Victor Martin feels inconsistent to some supporters,0.2646
+23,2022Q3,1849,Victor Martin looks brilliant after 1849 fan mentions | Victor Martin looks clinical after 1849 fan mentions,Victor Martin feels inconsistent to some supporters,0.5315
+23,2022Q4,1804,Victor Martin looks brilliant after 1804 fan mentions,Victor Martin feels inconsistent to some supporters | Victor Martin feels overpriced to some supporters,-0.3292
+23,2023Q1,1884,Victor Martin looks brilliant after 1884 fan mentions | Victor Martin looks clinical after 1884 fan mentions,Victor Martin feels inconsistent to some supporters,0.4336
+23,2023Q2,1946,Victor Martin looks brilliant after 1946 fan mentions | Victor Martin looks clinical after 1946 fan mentions,Victor Martin feels inconsistent to some supporters,0.4868
+23,2023Q3,2189,Victor Martin looks brilliant after 2189 fan mentions | Victor Martin looks clinical after 2189 fan mentions,Victor Martin feels inconsistent to some supporters,0.1463
+23,2023Q4,2078,Victor Martin looks brilliant after 2078 fan mentions | Victor Martin looks clinical after 2078 fan mentions,Victor Martin feels inconsistent to some supporters,1.0
+23,2024Q1,1846,Victor Martin looks brilliant after 1846 fan mentions | Victor Martin looks clinical after 1846 fan mentions,Victor Martin feels inconsistent to some supporters,0.7565
+23,2024Q2,2249,Victor Martin looks brilliant after 2249 fan mentions | Victor Martin looks clinical after 2249 fan mentions,Victor Martin feels inconsistent to some supporters,0.5365
+23,2024Q3,1863,Victor Martin looks brilliant after 1863 fan mentions | Victor Martin looks clinical after 1863 fan mentions,Victor Martin feels inconsistent to some supporters,0.7344
+23,2024Q4,1913,Victor Martin looks brilliant after 1913 fan mentions | Victor Martin looks clinical after 1913 fan mentions,Victor Martin feels inconsistent to some supporters,0.2988
+23,2025Q1,1997,Victor Martin looks brilliant after 1997 fan mentions | Victor Martin looks clinical after 1997 fan mentions,Victor Martin feels inconsistent to some supporters,0.383
+23,2025Q2,1890,Victor Martin looks brilliant after 1890 fan mentions | Victor Martin looks clinical after 1890 fan mentions,Victor Martin feels inconsistent to some supporters,0.2779
+23,2025Q3,1826,Victor Martin looks brilliant after 1826 fan mentions,Victor Martin feels inconsistent to some supporters | Victor Martin feels overpriced to some supporters,-0.0481
+23,2025Q4,1916,Victor Martin looks brilliant after 1916 fan mentions | Victor Martin looks clinical after 1916 fan mentions,Victor Martin feels inconsistent to some supporters,0.1033
+24,2021Q1,597,Theo Reed looks brilliant after 597 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.2349
+24,2021Q2,514,Theo Reed looks brilliant after 514 fan mentions | Theo Reed looks clinical after 514 fan mentions,Theo Reed feels inconsistent to some supporters,0.363
+24,2021Q3,452,Theo Reed looks brilliant after 452 fan mentions | Theo Reed looks clinical after 452 fan mentions,Theo Reed feels inconsistent to some supporters,0.2324
+24,2021Q4,557,Theo Reed looks brilliant after 557 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.156
+24,2022Q1,605,Theo Reed looks brilliant after 605 fan mentions | Theo Reed looks clinical after 605 fan mentions,Theo Reed feels inconsistent to some supporters,0.5835
+24,2022Q2,707,Theo Reed looks brilliant after 707 fan mentions | Theo Reed looks clinical after 707 fan mentions,Theo Reed feels inconsistent to some supporters,0.1176
+24,2022Q3,901,Theo Reed looks brilliant after 901 fan mentions | Theo Reed looks clinical after 901 fan mentions,Theo Reed feels inconsistent to some supporters,0.2176
+24,2022Q4,783,Theo Reed looks brilliant after 783 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.1025
+24,2023Q1,808,Theo Reed looks brilliant after 808 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.1545
+24,2023Q2,696,Theo Reed looks brilliant after 696 fan mentions | Theo Reed looks clinical after 696 fan mentions,Theo Reed feels inconsistent to some supporters,0.0881
+24,2023Q3,807,Theo Reed looks brilliant after 807 fan mentions | Theo Reed looks clinical after 807 fan mentions,Theo Reed feels inconsistent to some supporters,0.8234
+24,2023Q4,638,Theo Reed looks brilliant after 638 fan mentions | Theo Reed looks clinical after 638 fan mentions,Theo Reed feels inconsistent to some supporters,0.8729
+24,2024Q1,574,Theo Reed looks brilliant after 574 fan mentions | Theo Reed looks clinical after 574 fan mentions,Theo Reed feels inconsistent to some supporters,0.3112
+24,2024Q2,647,Theo Reed looks brilliant after 647 fan mentions | Theo Reed looks clinical after 647 fan mentions,Theo Reed feels inconsistent to some supporters,0.0692
+24,2024Q3,678,Theo Reed looks brilliant after 678 fan mentions | Theo Reed looks clinical after 678 fan mentions,Theo Reed feels inconsistent to some supporters,0.3208
+24,2024Q4,683,Theo Reed looks brilliant after 683 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.0224
+24,2025Q1,537,Theo Reed looks brilliant after 537 fan mentions | Theo Reed looks clinical after 537 fan mentions,Theo Reed feels inconsistent to some supporters,0.0595
+24,2025Q2,729,Theo Reed looks brilliant after 729 fan mentions | Theo Reed looks clinical after 729 fan mentions,Theo Reed feels inconsistent to some supporters,0.222
+24,2025Q3,473,Theo Reed looks brilliant after 473 fan mentions | Theo Reed looks clinical after 473 fan mentions,Theo Reed feels inconsistent to some supporters,0.0082
+24,2025Q4,612,Theo Reed looks brilliant after 612 fan mentions,Theo Reed feels inconsistent to some supporters | Theo Reed feels overpriced to some supporters,-0.5539
+25,2021Q1,1693,Bruno Garcia looks brilliant after 1693 fan mentions | Bruno Garcia looks clinical after 1693 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.0181
+25,2021Q2,1499,Bruno Garcia looks brilliant after 1499 fan mentions | Bruno Garcia looks clinical after 1499 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.6437
+25,2021Q3,1550,Bruno Garcia looks brilliant after 1550 fan mentions | Bruno Garcia looks clinical after 1550 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.281
+25,2021Q4,1325,Bruno Garcia looks brilliant after 1325 fan mentions | Bruno Garcia looks clinical after 1325 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.4388
+25,2022Q1,1606,Bruno Garcia looks brilliant after 1606 fan mentions | Bruno Garcia looks clinical after 1606 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.6856
+25,2022Q2,1770,Bruno Garcia looks brilliant after 1770 fan mentions | Bruno Garcia looks clinical after 1770 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.5568
+25,2022Q3,1901,Bruno Garcia looks brilliant after 1901 fan mentions | Bruno Garcia looks clinical after 1901 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.6925
+25,2022Q4,1551,Bruno Garcia looks brilliant after 1551 fan mentions | Bruno Garcia looks clinical after 1551 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.68
+25,2023Q1,1509,Bruno Garcia looks brilliant after 1509 fan mentions | Bruno Garcia looks clinical after 1509 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.4107
+25,2023Q2,1635,Bruno Garcia looks brilliant after 1635 fan mentions | Bruno Garcia looks clinical after 1635 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.8747
+25,2023Q3,1647,Bruno Garcia looks brilliant after 1647 fan mentions | Bruno Garcia looks clinical after 1647 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.6269
+25,2023Q4,1607,Bruno Garcia looks brilliant after 1607 fan mentions | Bruno Garcia looks clinical after 1607 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.4583
+25,2024Q1,1624,Bruno Garcia looks brilliant after 1624 fan mentions | Bruno Garcia looks clinical after 1624 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.9041
+25,2024Q2,1476,Bruno Garcia looks brilliant after 1476 fan mentions | Bruno Garcia looks clinical after 1476 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.2919
+25,2024Q3,1990,Bruno Garcia looks brilliant after 1990 fan mentions | Bruno Garcia looks clinical after 1990 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.358
+25,2024Q4,1643,Bruno Garcia looks brilliant after 1643 fan mentions | Bruno Garcia looks clinical after 1643 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.4903
+25,2025Q1,1539,Bruno Garcia looks brilliant after 1539 fan mentions | Bruno Garcia looks clinical after 1539 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.4069
+25,2025Q2,1650,Bruno Garcia looks brilliant after 1650 fan mentions,Bruno Garcia feels inconsistent to some supporters | Bruno Garcia feels overpriced to some supporters,-0.0292
+25,2025Q3,1379,Bruno Garcia looks brilliant after 1379 fan mentions | Bruno Garcia looks clinical after 1379 fan mentions,Bruno Garcia feels inconsistent to some supporters,0.6302
+25,2025Q4,1530,Bruno Garcia looks brilliant after 1530 fan mentions,Bruno Garcia feels inconsistent to some supporters | Bruno Garcia feels overpriced to some supporters,-0.036
+26,2021Q1,520,Rafael Lopez looks brilliant after 520 fan mentions | Rafael Lopez looks clinical after 520 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.105
+26,2021Q2,547,Rafael Lopez looks brilliant after 547 fan mentions | Rafael Lopez looks clinical after 547 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.0567
+26,2021Q3,246,Rafael Lopez looks brilliant after 246 fan mentions | Rafael Lopez looks clinical after 246 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.3179
+26,2021Q4,479,Rafael Lopez looks brilliant after 479 fan mentions | Rafael Lopez looks clinical after 479 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.2323
+26,2022Q1,554,Rafael Lopez looks brilliant after 554 fan mentions | Rafael Lopez looks clinical after 554 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.3519
+26,2022Q2,666,Rafael Lopez looks brilliant after 666 fan mentions | Rafael Lopez looks clinical after 666 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.0147
+26,2022Q3,640,Rafael Lopez looks brilliant after 640 fan mentions | Rafael Lopez looks clinical after 640 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.4364
+26,2022Q4,310,Rafael Lopez looks brilliant after 310 fan mentions | Rafael Lopez looks clinical after 310 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.3258
+26,2023Q1,282,Rafael Lopez looks brilliant after 282 fan mentions | Rafael Lopez looks clinical after 282 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.4417
+26,2023Q2,500,Rafael Lopez looks brilliant after 500 fan mentions | Rafael Lopez looks clinical after 500 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.3234
+26,2023Q3,460,Rafael Lopez looks brilliant after 460 fan mentions | Rafael Lopez looks clinical after 460 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.3998
+26,2023Q4,434,Rafael Lopez looks brilliant after 434 fan mentions | Rafael Lopez looks clinical after 434 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.5337
+26,2024Q1,336,Rafael Lopez looks brilliant after 336 fan mentions | Rafael Lopez looks clinical after 336 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.1712
+26,2024Q2,354,Rafael Lopez looks brilliant after 354 fan mentions | Rafael Lopez looks clinical after 354 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.1243
+26,2024Q3,338,Rafael Lopez looks brilliant after 338 fan mentions | Rafael Lopez looks clinical after 338 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.6678
+26,2024Q4,419,Rafael Lopez looks brilliant after 419 fan mentions,Rafael Lopez feels inconsistent to some supporters | Rafael Lopez feels overpriced to some supporters,-0.0812
+26,2025Q1,323,Rafael Lopez looks brilliant after 323 fan mentions,Rafael Lopez feels inconsistent to some supporters | Rafael Lopez feels overpriced to some supporters,-0.0897
+26,2025Q2,618,Rafael Lopez looks brilliant after 618 fan mentions | Rafael Lopez looks clinical after 618 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.0443
+26,2025Q3,180,Rafael Lopez looks brilliant after 180 fan mentions | Rafael Lopez looks clinical after 180 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.4835
+26,2025Q4,268,Rafael Lopez looks brilliant after 268 fan mentions | Rafael Lopez looks clinical after 268 fan mentions,Rafael Lopez feels inconsistent to some supporters,0.2025
+27,2021Q1,1429,Andre Diallo looks brilliant after 1429 fan mentions | Andre Diallo looks clinical after 1429 fan mentions,Andre Diallo feels inconsistent to some supporters,0.4841
+27,2021Q2,1223,Andre Diallo looks brilliant after 1223 fan mentions | Andre Diallo looks clinical after 1223 fan mentions,Andre Diallo feels inconsistent to some supporters,0.4859
+27,2021Q3,1437,Andre Diallo looks brilliant after 1437 fan mentions,Andre Diallo feels inconsistent to some supporters | Andre Diallo feels overpriced to some supporters,-0.0287
+27,2021Q4,1131,Andre Diallo looks brilliant after 1131 fan mentions | Andre Diallo looks clinical after 1131 fan mentions,Andre Diallo feels inconsistent to some supporters,0.2835
+27,2022Q1,1191,Andre Diallo looks brilliant after 1191 fan mentions | Andre Diallo looks clinical after 1191 fan mentions,Andre Diallo feels inconsistent to some supporters,0.256
+27,2022Q2,1283,Andre Diallo looks brilliant after 1283 fan mentions | Andre Diallo looks clinical after 1283 fan mentions,Andre Diallo feels inconsistent to some supporters,0.5057
+27,2022Q3,1401,Andre Diallo looks brilliant after 1401 fan mentions | Andre Diallo looks clinical after 1401 fan mentions,Andre Diallo feels inconsistent to some supporters,0.2545
+27,2022Q4,1306,Andre Diallo looks brilliant after 1306 fan mentions | Andre Diallo looks clinical after 1306 fan mentions,Andre Diallo feels inconsistent to some supporters,0.2702
+27,2023Q1,1268,Andre Diallo looks brilliant after 1268 fan mentions | Andre Diallo looks clinical after 1268 fan mentions,Andre Diallo feels inconsistent to some supporters,0.3766
+27,2023Q2,1314,Andre Diallo looks brilliant after 1314 fan mentions | Andre Diallo looks clinical after 1314 fan mentions,Andre Diallo feels inconsistent to some supporters,0.2227
+27,2023Q3,1104,Andre Diallo looks brilliant after 1104 fan mentions | Andre Diallo looks clinical after 1104 fan mentions,Andre Diallo feels inconsistent to some supporters,0.7734
+27,2023Q4,1415,Andre Diallo looks brilliant after 1415 fan mentions | Andre Diallo looks clinical after 1415 fan mentions,Andre Diallo feels inconsistent to some supporters,0.1471
+27,2024Q1,1299,Andre Diallo looks brilliant after 1299 fan mentions | Andre Diallo looks clinical after 1299 fan mentions,Andre Diallo feels inconsistent to some supporters,0.5041
+27,2024Q2,1352,Andre Diallo looks brilliant after 1352 fan mentions | Andre Diallo looks clinical after 1352 fan mentions,Andre Diallo feels inconsistent to some supporters,0.3363
+27,2024Q3,1174,Andre Diallo looks brilliant after 1174 fan mentions | Andre Diallo looks clinical after 1174 fan mentions,Andre Diallo feels inconsistent to some supporters,0.3733
+27,2024Q4,1368,Andre Diallo looks brilliant after 1368 fan mentions | Andre Diallo looks clinical after 1368 fan mentions,Andre Diallo feels inconsistent to some supporters,0.3463
+27,2025Q1,1370,Andre Diallo looks brilliant after 1370 fan mentions | Andre Diallo looks clinical after 1370 fan mentions,Andre Diallo feels inconsistent to some supporters,0.0784
+27,2025Q2,1450,Andre Diallo looks brilliant after 1450 fan mentions | Andre Diallo looks clinical after 1450 fan mentions,Andre Diallo feels inconsistent to some supporters,0.5013
+27,2025Q3,1360,Andre Diallo looks brilliant after 1360 fan mentions | Andre Diallo looks clinical after 1360 fan mentions,Andre Diallo feels inconsistent to some supporters,0.2121
+27,2025Q4,1246,Andre Diallo looks brilliant after 1246 fan mentions | Andre Diallo looks clinical after 1246 fan mentions,Andre Diallo feels inconsistent to some supporters,0.3506
+28,2021Q1,1263,Victor Lopez looks brilliant after 1263 fan mentions | Victor Lopez looks clinical after 1263 fan mentions,Victor Lopez feels inconsistent to some supporters,0.2123
+28,2021Q2,1201,Victor Lopez looks brilliant after 1201 fan mentions | Victor Lopez looks clinical after 1201 fan mentions,Victor Lopez feels inconsistent to some supporters,0.1485
+28,2021Q3,1374,Victor Lopez looks brilliant after 1374 fan mentions | Victor Lopez looks clinical after 1374 fan mentions,Victor Lopez feels inconsistent to some supporters,0.1267
+28,2021Q4,1337,Victor Lopez looks brilliant after 1337 fan mentions,Victor Lopez feels inconsistent to some supporters | Victor Lopez feels overpriced to some supporters,-0.4909
+28,2022Q1,1442,Victor Lopez looks brilliant after 1442 fan mentions | Victor Lopez looks clinical after 1442 fan mentions,Victor Lopez feels inconsistent to some supporters,0.5145
+28,2022Q2,1178,Victor Lopez looks brilliant after 1178 fan mentions | Victor Lopez looks clinical after 1178 fan mentions,Victor Lopez feels inconsistent to some supporters,0.5287
+28,2022Q3,1237,Victor Lopez looks brilliant after 1237 fan mentions | Victor Lopez looks clinical after 1237 fan mentions,Victor Lopez feels inconsistent to some supporters,0.6748
+28,2022Q4,1334,Victor Lopez looks brilliant after 1334 fan mentions,Victor Lopez feels inconsistent to some supporters | Victor Lopez feels overpriced to some supporters,-0.0467
+28,2023Q1,1393,Victor Lopez looks brilliant after 1393 fan mentions | Victor Lopez looks clinical after 1393 fan mentions,Victor Lopez feels inconsistent to some supporters,0.8444
+28,2023Q2,1163,Victor Lopez looks brilliant after 1163 fan mentions | Victor Lopez looks clinical after 1163 fan mentions,Victor Lopez feels inconsistent to some supporters,0.4668
+28,2023Q3,1271,Victor Lopez looks brilliant after 1271 fan mentions | Victor Lopez looks clinical after 1271 fan mentions,Victor Lopez feels inconsistent to some supporters,0.6481
+28,2023Q4,1155,Victor Lopez looks brilliant after 1155 fan mentions | Victor Lopez looks clinical after 1155 fan mentions,Victor Lopez feels inconsistent to some supporters,0.3229
+28,2024Q1,1144,Victor Lopez looks brilliant after 1144 fan mentions,Victor Lopez feels inconsistent to some supporters | Victor Lopez feels overpriced to some supporters,-0.1903
+28,2024Q2,1273,Victor Lopez looks brilliant after 1273 fan mentions,Victor Lopez feels inconsistent to some supporters | Victor Lopez feels overpriced to some supporters,-0.2563
+28,2024Q3,1282,Victor Lopez looks brilliant after 1282 fan mentions | Victor Lopez looks clinical after 1282 fan mentions,Victor Lopez feels inconsistent to some supporters,0.4405
+28,2024Q4,1364,Victor Lopez looks brilliant after 1364 fan mentions | Victor Lopez looks clinical after 1364 fan mentions,Victor Lopez feels inconsistent to some supporters,0.5831
+28,2025Q1,1205,Victor Lopez looks brilliant after 1205 fan mentions | Victor Lopez looks clinical after 1205 fan mentions,Victor Lopez feels inconsistent to some supporters,0.8392
+28,2025Q2,1256,Victor Lopez looks brilliant after 1256 fan mentions | Victor Lopez looks clinical after 1256 fan mentions,Victor Lopez feels inconsistent to some supporters,1.0
+28,2025Q3,1131,Victor Lopez looks brilliant after 1131 fan mentions | Victor Lopez looks clinical after 1131 fan mentions,Victor Lopez feels inconsistent to some supporters,0.5264
+28,2025Q4,1224,Victor Lopez looks brilliant after 1224 fan mentions | Victor Lopez looks clinical after 1224 fan mentions,Victor Lopez feels inconsistent to some supporters,0.5199
+29,2021Q1,2382,Alex Martin looks brilliant after 2382 fan mentions | Alex Martin looks clinical after 2382 fan mentions,Alex Martin feels inconsistent to some supporters,0.4718
+29,2021Q2,2491,Alex Martin looks brilliant after 2491 fan mentions | Alex Martin looks clinical after 2491 fan mentions,Alex Martin feels inconsistent to some supporters,0.3975
+29,2021Q3,2521,Alex Martin looks brilliant after 2521 fan mentions | Alex Martin looks clinical after 2521 fan mentions,Alex Martin feels inconsistent to some supporters,0.0023
+29,2021Q4,2350,Alex Martin looks brilliant after 2350 fan mentions | Alex Martin looks clinical after 2350 fan mentions,Alex Martin feels inconsistent to some supporters,0.6212
+29,2022Q1,2678,Alex Martin looks brilliant after 2678 fan mentions | Alex Martin looks clinical after 2678 fan mentions,Alex Martin feels inconsistent to some supporters,0.7384
+29,2022Q2,2346,Alex Martin looks brilliant after 2346 fan mentions | Alex Martin looks clinical after 2346 fan mentions,Alex Martin feels inconsistent to some supporters,0.233
+29,2022Q3,2377,Alex Martin looks brilliant after 2377 fan mentions | Alex Martin looks clinical after 2377 fan mentions,Alex Martin feels inconsistent to some supporters,0.7996
+29,2022Q4,2425,Alex Martin looks brilliant after 2425 fan mentions | Alex Martin looks clinical after 2425 fan mentions,Alex Martin feels inconsistent to some supporters,0.9816
+29,2023Q1,2668,Alex Martin looks brilliant after 2668 fan mentions | Alex Martin looks clinical after 2668 fan mentions,Alex Martin feels inconsistent to some supporters,0.5916
+29,2023Q2,2504,Alex Martin looks brilliant after 2504 fan mentions | Alex Martin looks clinical after 2504 fan mentions,Alex Martin feels inconsistent to some supporters,0.536
+29,2023Q3,2482,Alex Martin looks brilliant after 2482 fan mentions | Alex Martin looks clinical after 2482 fan mentions,Alex Martin feels inconsistent to some supporters,1.0
+29,2023Q4,2417,Alex Martin looks brilliant after 2417 fan mentions | Alex Martin looks clinical after 2417 fan mentions,Alex Martin feels inconsistent to some supporters,0.6776
+29,2024Q1,2572,Alex Martin looks brilliant after 2572 fan mentions | Alex Martin looks clinical after 2572 fan mentions,Alex Martin feels inconsistent to some supporters,0.4938
+29,2024Q2,2305,Alex Martin looks brilliant after 2305 fan mentions | Alex Martin looks clinical after 2305 fan mentions,Alex Martin feels inconsistent to some supporters,0.0675
+29,2024Q3,2094,Alex Martin looks brilliant after 2094 fan mentions | Alex Martin looks clinical after 2094 fan mentions,Alex Martin feels inconsistent to some supporters,0.7047
+29,2024Q4,2546,Alex Martin looks brilliant after 2546 fan mentions,Alex Martin feels inconsistent to some supporters | Alex Martin feels overpriced to some supporters,-0.0919
+29,2025Q1,2617,Alex Martin looks brilliant after 2617 fan mentions | Alex Martin looks clinical after 2617 fan mentions,Alex Martin feels inconsistent to some supporters,0.1759
+29,2025Q2,2547,Alex Martin looks brilliant after 2547 fan mentions | Alex Martin looks clinical after 2547 fan mentions,Alex Martin feels inconsistent to some supporters,1.0
+29,2025Q3,2650,Alex Martin looks brilliant after 2650 fan mentions | Alex Martin looks clinical after 2650 fan mentions,Alex Martin feels inconsistent to some supporters,0.4426
+29,2025Q4,2575,Alex Martin looks brilliant after 2575 fan mentions | Alex Martin looks clinical after 2575 fan mentions,Alex Martin feels inconsistent to some supporters,0.0749
+30,2021Q1,966,Victor Diallo looks brilliant after 966 fan mentions,Victor Diallo feels inconsistent to some supporters | Victor Diallo feels overpriced to some supporters,-0.1864
+30,2021Q2,723,Victor Diallo looks brilliant after 723 fan mentions | Victor Diallo looks clinical after 723 fan mentions,Victor Diallo feels inconsistent to some supporters,0.3296
+30,2021Q3,715,Victor Diallo looks brilliant after 715 fan mentions | Victor Diallo looks clinical after 715 fan mentions,Victor Diallo feels inconsistent to some supporters,0.2175
+30,2021Q4,1159,Victor Diallo looks brilliant after 1159 fan mentions | Victor Diallo looks clinical after 1159 fan mentions,Victor Diallo feels inconsistent to some supporters,0.7365
+30,2022Q1,762,Victor Diallo looks brilliant after 762 fan mentions,Victor Diallo feels inconsistent to some supporters | Victor Diallo feels overpriced to some supporters,-0.0554
+30,2022Q2,1195,Victor Diallo looks brilliant after 1195 fan mentions | Victor Diallo looks clinical after 1195 fan mentions,Victor Diallo feels inconsistent to some supporters,0.0139
+30,2022Q3,1150,Victor Diallo looks brilliant after 1150 fan mentions | Victor Diallo looks clinical after 1150 fan mentions,Victor Diallo feels inconsistent to some supporters,0.5
+30,2022Q4,635,Victor Diallo looks brilliant after 635 fan mentions | Victor Diallo looks clinical after 635 fan mentions,Victor Diallo feels inconsistent to some supporters,0.3742
+30,2023Q1,758,Victor Diallo looks brilliant after 758 fan mentions | Victor Diallo looks clinical after 758 fan mentions,Victor Diallo feels inconsistent to some supporters,0.0256
+30,2023Q2,1100,Victor Diallo looks brilliant after 1100 fan mentions | Victor Diallo looks clinical after 1100 fan mentions,Victor Diallo feels inconsistent to some supporters,0.5737
+30,2023Q3,1255,Victor Diallo looks brilliant after 1255 fan mentions | Victor Diallo looks clinical after 1255 fan mentions,Victor Diallo feels inconsistent to some supporters,0.1763
+30,2023Q4,766,Victor Diallo looks brilliant after 766 fan mentions | Victor Diallo looks clinical after 766 fan mentions,Victor Diallo feels inconsistent to some supporters,0.6246
+30,2024Q1,748,Victor Diallo looks brilliant after 748 fan mentions | Victor Diallo looks clinical after 748 fan mentions,Victor Diallo feels inconsistent to some supporters,0.1214
+30,2024Q2,745,Victor Diallo looks brilliant after 745 fan mentions | Victor Diallo looks clinical after 745 fan mentions,Victor Diallo feels inconsistent to some supporters,0.4541
+30,2024Q3,931,Victor Diallo looks brilliant after 931 fan mentions | Victor Diallo looks clinical after 931 fan mentions,Victor Diallo feels inconsistent to some supporters,0.7752
+30,2024Q4,910,Victor Diallo looks brilliant after 910 fan mentions,Victor Diallo feels inconsistent to some supporters | Victor Diallo feels overpriced to some supporters,-0.0698
+30,2025Q1,1059,Victor Diallo looks brilliant after 1059 fan mentions | Victor Diallo looks clinical after 1059 fan mentions,Victor Diallo feels inconsistent to some supporters,0.4533
+30,2025Q2,976,Victor Diallo looks brilliant after 976 fan mentions | Victor Diallo looks clinical after 976 fan mentions,Victor Diallo feels inconsistent to some supporters,0.1199
+30,2025Q3,945,Victor Diallo looks brilliant after 945 fan mentions | Victor Diallo looks clinical after 945 fan mentions,Victor Diallo feels inconsistent to some supporters,0.4204
+30,2025Q4,1044,Victor Diallo looks brilliant after 1044 fan mentions | Victor Diallo looks clinical after 1044 fan mentions,Victor Diallo feels inconsistent to some supporters,0.5966
+31,2021Q1,653,Lucas Moreau looks brilliant after 653 fan mentions | Lucas Moreau looks clinical after 653 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.1769
+31,2021Q2,892,Lucas Moreau looks brilliant after 892 fan mentions | Lucas Moreau looks clinical after 892 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.4991
+31,2021Q3,964,Lucas Moreau looks brilliant after 964 fan mentions | Lucas Moreau looks clinical after 964 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.2637
+31,2021Q4,845,Lucas Moreau looks brilliant after 845 fan mentions | Lucas Moreau looks clinical after 845 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.8034
+31,2022Q1,1028,Lucas Moreau looks brilliant after 1028 fan mentions | Lucas Moreau looks clinical after 1028 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.7629
+31,2022Q2,986,Lucas Moreau looks brilliant after 986 fan mentions | Lucas Moreau looks clinical after 986 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.406
+31,2022Q3,716,Lucas Moreau looks brilliant after 716 fan mentions | Lucas Moreau looks clinical after 716 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.3557
+31,2022Q4,850,Lucas Moreau looks brilliant after 850 fan mentions | Lucas Moreau looks clinical after 850 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.2852
+31,2023Q1,699,Lucas Moreau looks brilliant after 699 fan mentions | Lucas Moreau looks clinical after 699 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.3635
+31,2023Q2,716,Lucas Moreau looks brilliant after 716 fan mentions | Lucas Moreau looks clinical after 716 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.0884
+31,2023Q3,834,Lucas Moreau looks brilliant after 834 fan mentions | Lucas Moreau looks clinical after 834 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.0096
+31,2023Q4,939,Lucas Moreau looks brilliant after 939 fan mentions,Lucas Moreau feels inconsistent to some supporters | Lucas Moreau feels overpriced to some supporters,-0.2157
+31,2024Q1,746,Lucas Moreau looks brilliant after 746 fan mentions | Lucas Moreau looks clinical after 746 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.0381
+31,2024Q2,809,Lucas Moreau looks brilliant after 809 fan mentions | Lucas Moreau looks clinical after 809 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.17
+31,2024Q3,626,Lucas Moreau looks brilliant after 626 fan mentions,Lucas Moreau feels inconsistent to some supporters | Lucas Moreau feels overpriced to some supporters,-0.2175
+31,2024Q4,1020,Lucas Moreau looks brilliant after 1020 fan mentions,Lucas Moreau feels inconsistent to some supporters | Lucas Moreau feels overpriced to some supporters,-0.0006
+31,2025Q1,841,Lucas Moreau looks brilliant after 841 fan mentions | Lucas Moreau looks clinical after 841 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.7479
+31,2025Q2,820,Lucas Moreau looks brilliant after 820 fan mentions | Lucas Moreau looks clinical after 820 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.1912
+31,2025Q3,884,Lucas Moreau looks brilliant after 884 fan mentions | Lucas Moreau looks clinical after 884 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.1606
+31,2025Q4,1135,Lucas Moreau looks brilliant after 1135 fan mentions | Lucas Moreau looks clinical after 1135 fan mentions,Lucas Moreau feels inconsistent to some supporters,0.4772
+32,2021Q1,2454,Nico Santos looks brilliant after 2454 fan mentions | Nico Santos looks clinical after 2454 fan mentions,Nico Santos feels inconsistent to some supporters,0.6458
+32,2021Q2,2459,Nico Santos looks brilliant after 2459 fan mentions | Nico Santos looks clinical after 2459 fan mentions,Nico Santos feels inconsistent to some supporters,0.305
+32,2021Q3,2465,Nico Santos looks brilliant after 2465 fan mentions | Nico Santos looks clinical after 2465 fan mentions,Nico Santos feels inconsistent to some supporters,0.8654
+32,2021Q4,2517,Nico Santos looks brilliant after 2517 fan mentions,Nico Santos feels inconsistent to some supporters | Nico Santos feels overpriced to some supporters,-0.1014
+32,2022Q1,2656,Nico Santos looks brilliant after 2656 fan mentions | Nico Santos looks clinical after 2656 fan mentions,Nico Santos feels inconsistent to some supporters,0.6107
+32,2022Q2,2714,Nico Santos looks brilliant after 2714 fan mentions | Nico Santos looks clinical after 2714 fan mentions,Nico Santos feels inconsistent to some supporters,0.6787
+32,2022Q3,2472,Nico Santos looks brilliant after 2472 fan mentions | Nico Santos looks clinical after 2472 fan mentions,Nico Santos feels inconsistent to some supporters,0.466
+32,2022Q4,2543,Nico Santos looks brilliant after 2543 fan mentions | Nico Santos looks clinical after 2543 fan mentions,Nico Santos feels inconsistent to some supporters,0.2738
+32,2023Q1,2449,Nico Santos looks brilliant after 2449 fan mentions | Nico Santos looks clinical after 2449 fan mentions,Nico Santos feels inconsistent to some supporters,0.3362
+32,2023Q2,2542,Nico Santos looks brilliant after 2542 fan mentions | Nico Santos looks clinical after 2542 fan mentions,Nico Santos feels inconsistent to some supporters,1.0
+32,2023Q3,2313,Nico Santos looks brilliant after 2313 fan mentions | Nico Santos looks clinical after 2313 fan mentions,Nico Santos feels inconsistent to some supporters,0.401
+32,2023Q4,2618,Nico Santos looks brilliant after 2618 fan mentions | Nico Santos looks clinical after 2618 fan mentions,Nico Santos feels inconsistent to some supporters,1.0
+32,2024Q1,2371,Nico Santos looks brilliant after 2371 fan mentions | Nico Santos looks clinical after 2371 fan mentions,Nico Santos feels inconsistent to some supporters,0.5534
+32,2024Q2,2306,Nico Santos looks brilliant after 2306 fan mentions | Nico Santos looks clinical after 2306 fan mentions,Nico Santos feels inconsistent to some supporters,0.1444
+32,2024Q3,2575,Nico Santos looks brilliant after 2575 fan mentions | Nico Santos looks clinical after 2575 fan mentions,Nico Santos feels inconsistent to some supporters,0.8981
+32,2024Q4,2303,Nico Santos looks brilliant after 2303 fan mentions | Nico Santos looks clinical after 2303 fan mentions,Nico Santos feels inconsistent to some supporters,1.0
+32,2025Q1,2452,Nico Santos looks brilliant after 2452 fan mentions | Nico Santos looks clinical after 2452 fan mentions,Nico Santos feels inconsistent to some supporters,0.6468
+32,2025Q2,2460,Nico Santos looks brilliant after 2460 fan mentions | Nico Santos looks clinical after 2460 fan mentions,Nico Santos feels inconsistent to some supporters,0.8466
+32,2025Q3,2329,Nico Santos looks brilliant after 2329 fan mentions | Nico Santos looks clinical after 2329 fan mentions,Nico Santos feels inconsistent to some supporters,0.5601
+32,2025Q4,2519,Nico Santos looks brilliant after 2519 fan mentions | Nico Santos looks clinical after 2519 fan mentions,Nico Santos feels inconsistent to some supporters,0.1906
+33,2021Q1,1505,Theo Kane looks brilliant after 1505 fan mentions | Theo Kane looks clinical after 1505 fan mentions,Theo Kane feels inconsistent to some supporters,0.1864
+33,2021Q2,1664,Theo Kane looks brilliant after 1664 fan mentions | Theo Kane looks clinical after 1664 fan mentions,Theo Kane feels inconsistent to some supporters,0.1247
+33,2021Q3,1418,Theo Kane looks brilliant after 1418 fan mentions | Theo Kane looks clinical after 1418 fan mentions,Theo Kane feels inconsistent to some supporters,0.6181
+33,2021Q4,1423,Theo Kane looks brilliant after 1423 fan mentions | Theo Kane looks clinical after 1423 fan mentions,Theo Kane feels inconsistent to some supporters,0.7775
+33,2022Q1,1430,Theo Kane looks brilliant after 1430 fan mentions | Theo Kane looks clinical after 1430 fan mentions,Theo Kane feels inconsistent to some supporters,0.4051
+33,2022Q2,1591,Theo Kane looks brilliant after 1591 fan mentions | Theo Kane looks clinical after 1591 fan mentions,Theo Kane feels inconsistent to some supporters,0.6722
+33,2022Q3,1284,Theo Kane looks brilliant after 1284 fan mentions | Theo Kane looks clinical after 1284 fan mentions,Theo Kane feels inconsistent to some supporters,0.1634
+33,2022Q4,1791,Theo Kane looks brilliant after 1791 fan mentions,Theo Kane feels inconsistent to some supporters | Theo Kane feels overpriced to some supporters,-0.1116
+33,2023Q1,1381,Theo Kane looks brilliant after 1381 fan mentions | Theo Kane looks clinical after 1381 fan mentions,Theo Kane feels inconsistent to some supporters,0.3255
+33,2023Q2,1372,Theo Kane looks brilliant after 1372 fan mentions | Theo Kane looks clinical after 1372 fan mentions,Theo Kane feels inconsistent to some supporters,0.4905
+33,2023Q3,1468,Theo Kane looks brilliant after 1468 fan mentions | Theo Kane looks clinical after 1468 fan mentions,Theo Kane feels inconsistent to some supporters,0.8255
+33,2023Q4,1623,Theo Kane looks brilliant after 1623 fan mentions | Theo Kane looks clinical after 1623 fan mentions,Theo Kane feels inconsistent to some supporters,0.2318
+33,2024Q1,1695,Theo Kane looks brilliant after 1695 fan mentions | Theo Kane looks clinical after 1695 fan mentions,Theo Kane feels inconsistent to some supporters,0.5722
+33,2024Q2,1494,Theo Kane looks brilliant after 1494 fan mentions,Theo Kane feels inconsistent to some supporters | Theo Kane feels overpriced to some supporters,-0.1509
+33,2024Q3,1619,Theo Kane looks brilliant after 1619 fan mentions,Theo Kane feels inconsistent to some supporters | Theo Kane feels overpriced to some supporters,-0.0598
+33,2024Q4,1322,Theo Kane looks brilliant after 1322 fan mentions | Theo Kane looks clinical after 1322 fan mentions,Theo Kane feels inconsistent to some supporters,0.1751
+33,2025Q1,1501,Theo Kane looks brilliant after 1501 fan mentions | Theo Kane looks clinical after 1501 fan mentions,Theo Kane feels inconsistent to some supporters,0.4334
+33,2025Q2,1489,Theo Kane looks brilliant after 1489 fan mentions | Theo Kane looks clinical after 1489 fan mentions,Theo Kane feels inconsistent to some supporters,0.8592
+33,2025Q3,1641,Theo Kane looks brilliant after 1641 fan mentions | Theo Kane looks clinical after 1641 fan mentions,Theo Kane feels inconsistent to some supporters,0.1249
+33,2025Q4,1486,Theo Kane looks brilliant after 1486 fan mentions,Theo Kane feels inconsistent to some supporters | Theo Kane feels overpriced to some supporters,-0.0757
+34,2021Q1,1568,Mateo Santos looks brilliant after 1568 fan mentions | Mateo Santos looks clinical after 1568 fan mentions,Mateo Santos feels inconsistent to some supporters,0.3027
+34,2021Q2,1654,Mateo Santos looks brilliant after 1654 fan mentions | Mateo Santos looks clinical after 1654 fan mentions,Mateo Santos feels inconsistent to some supporters,0.226
+34,2021Q3,1535,Mateo Santos looks brilliant after 1535 fan mentions | Mateo Santos looks clinical after 1535 fan mentions,Mateo Santos feels inconsistent to some supporters,0.4517
+34,2021Q4,1557,Mateo Santos looks brilliant after 1557 fan mentions | Mateo Santos looks clinical after 1557 fan mentions,Mateo Santos feels inconsistent to some supporters,0.093
+34,2022Q1,1450,Mateo Santos looks brilliant after 1450 fan mentions | Mateo Santos looks clinical after 1450 fan mentions,Mateo Santos feels inconsistent to some supporters,0.9682
+34,2022Q2,1763,Mateo Santos looks brilliant after 1763 fan mentions | Mateo Santos looks clinical after 1763 fan mentions,Mateo Santos feels inconsistent to some supporters,0.7906
+34,2022Q3,1754,Mateo Santos looks brilliant after 1754 fan mentions | Mateo Santos looks clinical after 1754 fan mentions,Mateo Santos feels inconsistent to some supporters,0.0468
+34,2022Q4,1491,Mateo Santos looks brilliant after 1491 fan mentions | Mateo Santos looks clinical after 1491 fan mentions,Mateo Santos feels inconsistent to some supporters,0.6945
+34,2023Q1,1296,Mateo Santos looks brilliant after 1296 fan mentions | Mateo Santos looks clinical after 1296 fan mentions,Mateo Santos feels inconsistent to some supporters,0.3719
+34,2023Q2,1513,Mateo Santos looks brilliant after 1513 fan mentions | Mateo Santos looks clinical after 1513 fan mentions,Mateo Santos feels inconsistent to some supporters,0.0322
+34,2023Q3,1530,Mateo Santos looks brilliant after 1530 fan mentions | Mateo Santos looks clinical after 1530 fan mentions,Mateo Santos feels inconsistent to some supporters,0.0847
+34,2023Q4,1409,Mateo Santos looks brilliant after 1409 fan mentions | Mateo Santos looks clinical after 1409 fan mentions,Mateo Santos feels inconsistent to some supporters,0.474
+34,2024Q1,1306,Mateo Santos looks brilliant after 1306 fan mentions | Mateo Santos looks clinical after 1306 fan mentions,Mateo Santos feels inconsistent to some supporters,0.9765
+34,2024Q2,1390,Mateo Santos looks brilliant after 1390 fan mentions | Mateo Santos looks clinical after 1390 fan mentions,Mateo Santos feels inconsistent to some supporters,0.409
+34,2024Q3,1461,Mateo Santos looks brilliant after 1461 fan mentions | Mateo Santos looks clinical after 1461 fan mentions,Mateo Santos feels inconsistent to some supporters,0.856
+34,2024Q4,1651,Mateo Santos looks brilliant after 1651 fan mentions | Mateo Santos looks clinical after 1651 fan mentions,Mateo Santos feels inconsistent to some supporters,1.0
+34,2025Q1,1424,Mateo Santos looks brilliant after 1424 fan mentions | Mateo Santos looks clinical after 1424 fan mentions,Mateo Santos feels inconsistent to some supporters,0.6521
+34,2025Q2,1829,Mateo Santos looks brilliant after 1829 fan mentions | Mateo Santos looks clinical after 1829 fan mentions,Mateo Santos feels inconsistent to some supporters,0.1147
+34,2025Q3,1774,Mateo Santos looks brilliant after 1774 fan mentions | Mateo Santos looks clinical after 1774 fan mentions,Mateo Santos feels inconsistent to some supporters,0.5801
+34,2025Q4,1431,Mateo Santos looks brilliant after 1431 fan mentions | Mateo Santos looks clinical after 1431 fan mentions,Mateo Santos feels inconsistent to some supporters,0.5993
+35,2021Q1,1252,Leo Lopez looks brilliant after 1252 fan mentions | Leo Lopez looks clinical after 1252 fan mentions,Leo Lopez feels inconsistent to some supporters,0.0804
+35,2021Q2,1255,Leo Lopez looks brilliant after 1255 fan mentions | Leo Lopez looks clinical after 1255 fan mentions,Leo Lopez feels inconsistent to some supporters,0.3112
+35,2021Q3,1255,Leo Lopez looks brilliant after 1255 fan mentions | Leo Lopez looks clinical after 1255 fan mentions,Leo Lopez feels inconsistent to some supporters,0.1955
+35,2021Q4,1208,Leo Lopez looks brilliant after 1208 fan mentions | Leo Lopez looks clinical after 1208 fan mentions,Leo Lopez feels inconsistent to some supporters,0.4741
+35,2022Q1,1385,Leo Lopez looks brilliant after 1385 fan mentions | Leo Lopez looks clinical after 1385 fan mentions,Leo Lopez feels inconsistent to some supporters,0.1683
+35,2022Q2,1278,Leo Lopez looks brilliant after 1278 fan mentions | Leo Lopez looks clinical after 1278 fan mentions,Leo Lopez feels inconsistent to some supporters,0.5666
+35,2022Q3,1437,Leo Lopez looks brilliant after 1437 fan mentions | Leo Lopez looks clinical after 1437 fan mentions,Leo Lopez feels inconsistent to some supporters,0.1629
+35,2022Q4,1364,Leo Lopez looks brilliant after 1364 fan mentions | Leo Lopez looks clinical after 1364 fan mentions,Leo Lopez feels inconsistent to some supporters,0.4116
+35,2023Q1,1396,Leo Lopez looks brilliant after 1396 fan mentions | Leo Lopez looks clinical after 1396 fan mentions,Leo Lopez feels inconsistent to some supporters,0.2808
+35,2023Q2,1225,Leo Lopez looks brilliant after 1225 fan mentions | Leo Lopez looks clinical after 1225 fan mentions,Leo Lopez feels inconsistent to some supporters,0.555
+35,2023Q3,1106,Leo Lopez looks brilliant after 1106 fan mentions | Leo Lopez looks clinical after 1106 fan mentions,Leo Lopez feels inconsistent to some supporters,0.2684
+35,2023Q4,1292,Leo Lopez looks brilliant after 1292 fan mentions | Leo Lopez looks clinical after 1292 fan mentions,Leo Lopez feels inconsistent to some supporters,0.264
+35,2024Q1,1315,Leo Lopez looks brilliant after 1315 fan mentions | Leo Lopez looks clinical after 1315 fan mentions,Leo Lopez feels inconsistent to some supporters,0.514
+35,2024Q2,1059,Leo Lopez looks brilliant after 1059 fan mentions | Leo Lopez looks clinical after 1059 fan mentions,Leo Lopez feels inconsistent to some supporters,0.2872
+35,2024Q3,1172,Leo Lopez looks brilliant after 1172 fan mentions | Leo Lopez looks clinical after 1172 fan mentions,Leo Lopez feels inconsistent to some supporters,0.1983
+35,2024Q4,1297,Leo Lopez looks brilliant after 1297 fan mentions | Leo Lopez looks clinical after 1297 fan mentions,Leo Lopez feels inconsistent to some supporters,1.0
+35,2025Q1,1299,Leo Lopez looks brilliant after 1299 fan mentions | Leo Lopez looks clinical after 1299 fan mentions,Leo Lopez feels inconsistent to some supporters,0.6843
+35,2025Q2,1231,Leo Lopez looks brilliant after 1231 fan mentions | Leo Lopez looks clinical after 1231 fan mentions,Leo Lopez feels inconsistent to some supporters,0.0337
+35,2025Q3,1224,Leo Lopez looks brilliant after 1224 fan mentions | Leo Lopez looks clinical after 1224 fan mentions,Leo Lopez feels inconsistent to some supporters,0.8476
+35,2025Q4,1323,Leo Lopez looks brilliant after 1323 fan mentions | Leo Lopez looks clinical after 1323 fan mentions,Leo Lopez feels inconsistent to some supporters,0.2773
+36,2021Q1,1832,Rafael Costa looks brilliant after 1832 fan mentions | Rafael Costa looks clinical after 1832 fan mentions,Rafael Costa feels inconsistent to some supporters,0.3649
+36,2021Q2,2006,Rafael Costa looks brilliant after 2006 fan mentions | Rafael Costa looks clinical after 2006 fan mentions,Rafael Costa feels inconsistent to some supporters,0.7534
+36,2021Q3,1889,Rafael Costa looks brilliant after 1889 fan mentions | Rafael Costa looks clinical after 1889 fan mentions,Rafael Costa feels inconsistent to some supporters,0.2332
+36,2021Q4,1986,Rafael Costa looks brilliant after 1986 fan mentions | Rafael Costa looks clinical after 1986 fan mentions,Rafael Costa feels inconsistent to some supporters,0.3121
+36,2022Q1,1906,Rafael Costa looks brilliant after 1906 fan mentions | Rafael Costa looks clinical after 1906 fan mentions,Rafael Costa feels inconsistent to some supporters,0.9674
+36,2022Q2,1922,Rafael Costa looks brilliant after 1922 fan mentions | Rafael Costa looks clinical after 1922 fan mentions,Rafael Costa feels inconsistent to some supporters,0.094
+36,2022Q3,2082,Rafael Costa looks brilliant after 2082 fan mentions | Rafael Costa looks clinical after 2082 fan mentions,Rafael Costa feels inconsistent to some supporters,0.223
+36,2022Q4,2143,Rafael Costa looks brilliant after 2143 fan mentions | Rafael Costa looks clinical after 2143 fan mentions,Rafael Costa feels inconsistent to some supporters,0.5712
+36,2023Q1,1833,Rafael Costa looks brilliant after 1833 fan mentions | Rafael Costa looks clinical after 1833 fan mentions,Rafael Costa feels inconsistent to some supporters,0.9959
+36,2023Q2,2066,Rafael Costa looks brilliant after 2066 fan mentions | Rafael Costa looks clinical after 2066 fan mentions,Rafael Costa feels inconsistent to some supporters,0.2909
+36,2023Q3,1834,Rafael Costa looks brilliant after 1834 fan mentions | Rafael Costa looks clinical after 1834 fan mentions,Rafael Costa feels inconsistent to some supporters,0.3671
+36,2023Q4,1865,Rafael Costa looks brilliant after 1865 fan mentions | Rafael Costa looks clinical after 1865 fan mentions,Rafael Costa feels inconsistent to some supporters,0.2636
+36,2024Q1,1568,Rafael Costa looks brilliant after 1568 fan mentions | Rafael Costa looks clinical after 1568 fan mentions,Rafael Costa feels inconsistent to some supporters,0.429
+36,2024Q2,2225,Rafael Costa looks brilliant after 2225 fan mentions | Rafael Costa looks clinical after 2225 fan mentions,Rafael Costa feels inconsistent to some supporters,0.5545
+36,2024Q3,1953,Rafael Costa looks brilliant after 1953 fan mentions | Rafael Costa looks clinical after 1953 fan mentions,Rafael Costa feels inconsistent to some supporters,0.2057
+36,2024Q4,1852,Rafael Costa looks brilliant after 1852 fan mentions | Rafael Costa looks clinical after 1852 fan mentions,Rafael Costa feels inconsistent to some supporters,0.928
+36,2025Q1,1806,Rafael Costa looks brilliant after 1806 fan mentions | Rafael Costa looks clinical after 1806 fan mentions,Rafael Costa feels inconsistent to some supporters,0.4064
+36,2025Q2,1787,Rafael Costa looks brilliant after 1787 fan mentions | Rafael Costa looks clinical after 1787 fan mentions,Rafael Costa feels inconsistent to some supporters,0.0976
+36,2025Q3,1810,Rafael Costa looks brilliant after 1810 fan mentions | Rafael Costa looks clinical after 1810 fan mentions,Rafael Costa feels inconsistent to some supporters,0.4667
+36,2025Q4,1903,Rafael Costa looks brilliant after 1903 fan mentions | Rafael Costa looks clinical after 1903 fan mentions,Rafael Costa feels inconsistent to some supporters,0.0356

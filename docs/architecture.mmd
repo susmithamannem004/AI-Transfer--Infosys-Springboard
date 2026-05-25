@@ -1,0 +1,15 @@
+flowchart LR
+  A["StatsBomb-style performance data"] --> E["Data cleaning and feature engineering"]
+  B["Transfermarkt-style market values"] --> E
+  C["Twitter/X-style sentiment text"] --> D["Lexicon sentiment scoring"]
+  D --> E
+  I["Injury history"] --> E
+  E --> F["Processed player-quarter feature table"]
+  F --> G["LSTM-lite sequence forecaster"]
+  F --> H["Multi-source regression baseline"]
+  H --> J["Boosted-stump ensemble"]
+  G --> K["Model evaluation"]
+  J --> K
+  H --> K
+  K --> L["Predictions, metrics, dashboard, report"]
+

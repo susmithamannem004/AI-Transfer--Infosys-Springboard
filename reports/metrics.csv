@@ -1,0 +1,4 @@
+model,rmse,mae,r2
+linear_multisource_baseline,1.1957,0.8873,0.9334
+lstm_lite_sequence,3.5153,2.6444,0.4242
+ensemble_boosted_stumps,1.5915,1.1447,0.882
