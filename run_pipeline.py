@@ -1,4 +1,5 @@
 from pathlib import Path
+import shutil
 
 from src.data_sources import generate_raw_datasets
 from src.features import build_feature_table
@@ -14,23 +15,25 @@ def main() -> None:
     processed_dir = ROOT / "data" / "processed"
     model_dir = ROOT / "models"
     report_dir = ROOT / "reports"
+    docs_dir = ROOT / "docs"
 
-    for directory in (raw_dir, processed_dir, model_dir, report_dir):
+    for directory in (raw_dir, processed_dir, model_dir, report_dir, docs_dir):
         directory.mkdir(parents=True, exist_ok=True)
 
     raw = generate_raw_datasets(raw_dir)
     features = build_feature_table(raw, processed_dir)
     results = train_and_evaluate(features, model_dir, report_dir)
     write_dashboard(features, results, report_dir)
+    shutil.copyfile(report_dir / "index.html", docs_dir / "index.html")
     write_methodology_report(results, report_dir)
 
     print("TransferIQ pipeline complete.")
     print(f"Metrics: {report_dir / 'metrics.csv'}")
     print(f"Predictions: {report_dir / 'predictions.csv'}")
     print(f"Dashboard: {report_dir / 'dashboard.html'}")
+    print(f"GitHub Pages entry: {docs_dir / 'index.html'}")
     print(f"Report: {report_dir / 'methodology_report.md'}")
 
 
 if __name__ == "__main__":
     main()
-
